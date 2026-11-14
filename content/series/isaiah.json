@@ -1,0 +1,218 @@
+{
+  "title": "Isaiah",
+  "slug": "isaiah",
+  "dates": "February 16–May 25, 2025",
+  "sort_date": "2025-02-16",
+  "scripture": "Isaiah 1–66",
+  "card_image": "/images/cards/IsaiahPart1-App_1024x1024.jpg",
+  "summary": "A 15-week journey through the book of Isaiah, with a suggested reading plan, visual guides, worship playlists, and weekly group discussion guides.",
+  "seo_description": "A 15-week journey through the book of Isaiah, with a suggested reading plan, visual guides, worship playlists, and weekly group discussion guides.",
+  "hero": {
+    "background": "",
+    "background_color": "Navy",
+    "title_image": "",
+    "image": "/images/isaiah/IsaiahPart3-App_1920x692.jpg",
+    "show_title": false,
+    "tagline": "",
+    "buttons": [
+      {
+        "label": "Reading Plan",
+        "url": "#reading-plan"
+      },
+      {
+        "label": "Discussion Guides",
+        "url": "#discussion-guides"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Visual Guides",
+      "eyebrow": "",
+      "anchor": "visual-guides",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/isaiah/MarkCenters_18.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Isaiah timeline: Messiah, Church, Millennium, and New Heavens and New Earth",
+          "size": "Wide"
+        },
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/isaiah/Screenshot-2025-04-24-at-3.45.23-PM.png",
+              "title": "Jesus as “Idealized Israel”",
+              "text": "Sunday handout comparing the patterns of Israel and Jesus.",
+              "url": "/s/20250422-HandoutForSunday.pdf",
+              "label": "View Handout"
+            },
+            {
+              "image": "/images/isaiah/128070.jpg",
+              "title": "Isaiah: The God Who Is There",
+              "text": "A one-page chart for preaching and reading through Isaiah, from Preaching Today.",
+              "url": "https://www.preachingtoday.com/exegesis/isaiah/chart-preaching-through-isaiah.html",
+              "label": "View Chart"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Suggested Reading Plan",
+      "eyebrow": "",
+      "anchor": "reading-plan",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Most of the sermons are in chronological order but divided into three themes. A straightforward reading through Isaiah would mean reading 66 chapters in fourteen weeks, about five chapters per week.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Text",
+          "text": "<ul><li><em>Week of February 16:</em> Isaiah 1–5</li><li><em>Week of February 23:</em> Isaiah 6–10</li><li><em>Week of March 2:</em> Isaiah 11–15</li><li><em>Week of March 9:</em> Isaiah 16–20</li><li><em>Week of March 16:</em> Isaiah 21–25</li><li><em>Week of March 23:</em> Isaiah 26–30</li><li><em>Week of March 30:</em> Isaiah 31–35</li><li><em>Week of April 6:</em> Isaiah 36–40</li><li><em>Week of April 13:</em> Isaiah 41–45</li><li><em>Week of April 20:</em> Isaiah 46–50</li><li><em>Week of April 27:</em> Isaiah 51–55</li><li><em>Week of May 4:</em> Isaiah 56–60</li><li><em>Week of May 11:</em> Isaiah 61–63</li><li><em>Week of May 18:</em> Isaiah 64–66</li></ul>",
+          "collapsed_title": ""
+        }
+      ]
+    },
+    {
+      "heading": "Discussion Guides",
+      "eyebrow": "",
+      "anchor": "discussion-guides",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Weekly questions for community groups, plus a guide for group leaders.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Leader Resources",
+              "url": "/s/Isaiah-Series-Resources-for-Leaders-2-19-2025.pdf"
+            },
+            {
+              "label": "Week 1",
+              "url": "/s/216_2025_Isaiah-Series.pdf"
+            },
+            {
+              "label": "Week 2",
+              "url": "/s/223_2025_Isaiah.pdf"
+            },
+            {
+              "label": "Week 3",
+              "url": "/s/03022025-Isaiah.pdf"
+            },
+            {
+              "label": "Week 4",
+              "url": "/s/03092025-Isaiah.pdf"
+            },
+            {
+              "label": "Week 5",
+              "url": "/s/03162025-Isaiah.pdf"
+            },
+            {
+              "label": "Week 6",
+              "url": "/s/03232025-Isaiah.pdf"
+            },
+            {
+              "label": "Week 7",
+              "url": "/s/330_25-Isaiah.pdf"
+            },
+            {
+              "label": "Week 8",
+              "url": "/s/46_2025_Isaiah.pdf"
+            },
+            {
+              "label": "Week 9",
+              "url": "/s/413-Isaiah.pdf"
+            },
+            {
+              "label": "Week 10",
+              "url": "/s/420_25-Isaiah-Easter.pdf"
+            },
+            {
+              "label": "Week 11",
+              "url": "/s/427_25-Isaiah-Questions.pdf"
+            },
+            {
+              "label": "Week 12",
+              "url": "/s/54_25-Isaiah.pdf"
+            },
+            {
+              "label": "Week 13",
+              "url": "/s/05112025-Isaiah.pdf"
+            },
+            {
+              "label": "Week 14",
+              "url": "/s/05182025-Isaiah.pdf"
+            },
+            {
+              "label": "Week 15",
+              "url": "/s/525_25-Isaiah-Questions.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Isaiah Study Groups",
+      "eyebrow": "",
+      "anchor": "study-groups",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/isaiah/image-1738956722592.jpg",
+              "title": "Russell Short-Term Study Group",
+              "text": "Stages 1–6",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/2759535",
+              "label": "Group Details"
+            },
+            {
+              "image": "/images/isaiah/image-1738956666094.jpg",
+              "title": "Deeper Short-Term Study Group",
+              "text": "Stages 1–6",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/2758588",
+              "label": "Group Details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Isaiah Series Playlists",
+      "eyebrow": "",
+      "anchor": "playlists",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://open.spotify.com/embed/playlist/7zelg4d15YhyxUp42Fb3ju?utm_source=generator",
+              "height": 450
+            },
+            {
+              "url": "https://embed.music.apple.com/us/playlist/isaiah/pl.u-Zmblx9rUZp9Lbp",
+              "height": 450
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

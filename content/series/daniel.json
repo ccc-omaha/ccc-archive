@@ -1,0 +1,102 @@
+{
+  "title": "Daniel",
+  "slug": "daniel",
+  "dates": "August 14–October 23, 2022",
+  "sort_date": "2022-08-14",
+  "scripture": "Daniel 1–12",
+  "card_image": "/images/cards/07-DanielPart1-App_1024x1024.jpg",
+  "summary": "Dreams and visions of the future: a series through the book of Daniel, with an overview video, reflection questions, and the two-part series book in digital and print-at-home formats.",
+  "seo_description": "Dreams and visions of the future: a series through the book of Daniel, with an overview video, reflection questions, and the two-part series book in digital and print-at-home formats.",
+  "hero": {
+    "background": "/images/daniel/bg.png",
+    "background_color": "Aqua",
+    "title_image": "/images/daniel/DanielPart2-EmailGraphic_1920x1080.png",
+    "image": "",
+    "show_title": false,
+    "tagline": "",
+    "buttons": []
+  },
+  "sections": [
+    {
+      "heading": "Book of Daniel Overview",
+      "eyebrow": "",
+      "anchor": "overview",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Video",
+          "url": "https://www.youtube.com/watch?v=9cSC9uobtPM",
+          "caption": ""
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Daniel Reflection Questions",
+              "url": "/s/20220803-DanielReflectionQuestions_DIGITAL.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Series Books",
+      "eyebrow": "",
+      "anchor": "series-books",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Engage with the <em>Daniel</em> series using message notes, visual aids, and group discussion guides.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Image",
+          "image": "/images/daniel/DanielBookCoversMockup.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Daniel series books, Parts I and II",
+          "size": "Medium"
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Digital version</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Digital Book Part I",
+              "url": "https://issuu.com/cccomaha/docs/20220715-danielbooklet-book1_digital"
+            },
+            {
+              "label": "Digital Book Part II",
+              "url": "https://issuu.com/cccomaha/docs/20220715-danielbooklet-book2_digital"
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Print-at-home version</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Printable PDF Part I",
+              "url": "/s/20220715-DanielBooklet-Book1_PrintFromHome-n6b2.pdf"
+            },
+            {
+              "label": "Printable PDF Part II",
+              "url": "/s/20220715-DanielBooklet-Book2_PrintFromHome.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

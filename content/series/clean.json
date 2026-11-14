@@ -1,0 +1,134 @@
+{
+  "title": "Clean",
+  "slug": "clean",
+  "dates": "February 21–May 23, 2021",
+  "sort_date": "2021-02-21",
+  "scripture": "Leviticus",
+  "card_image": "/images/cards/03-Clean-App_1024x1024.jpg",
+  "summary": "Finding Jesus in Leviticus: a 12-week series on how an unholy people can approach a holy God. Series booklets, messages, and a list of 76 things banned in Leviticus.",
+  "seo_description": "Finding Jesus in Leviticus: a 12-week series on how an unholy people can approach a holy God. Series booklets, messages, and a list of 76 things banned in Leviticus.",
+  "hero": {
+    "background": "",
+    "background_color": "Navy",
+    "title_image": "/images/clean/CLEANWordmark-Web.png",
+    "image": "",
+    "show_title": false,
+    "tagline": "",
+    "buttons": [
+      {
+        "label": "Series Booklets",
+        "url": "#booklets"
+      },
+      {
+        "label": "Watch Messages",
+        "url": "#messages"
+      },
+      {
+        "label": "76 Banned Things",
+        "url": "/s/CLEAN-76-Things-Banned-in-Leviticus-2.pdf"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Why Leviticus?",
+      "eyebrow": "",
+      "anchor": "about",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Video",
+          "url": "https://vimeo.com/509952518",
+          "caption": ""
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>A 12-week message series through the book of Leviticus? Why in the world would we do a thing like that?</h3><p>Leviticus is a book of the Bible people can easily get stuck on, or even skip over altogether. But this ancient book is full of practical wisdom that applies to us today, thousands of years later. At the time Leviticus was written, the nation of Israel was wandering through the wilderness, asking, “How can an unholy people approach a holy God?” or, “How can we be <em>clean</em> enough to come before God?” The book of Leviticus is God’s answer.</p><p>But the best reason to study Leviticus? <strong>It’s really all about Jesus.</strong> We’ll see shadows of Jesus through the entirety of the book, and we'll learn how Jesus is the fulfillment of the law and how <em>he</em> is the way we can be made clean to come before God.</p>",
+          "collapsed_title": ""
+        }
+      ]
+    },
+    {
+      "heading": "Series Booklets",
+      "eyebrow": "",
+      "anchor": "booklets",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Engage with the <em>Clean</em> series using message notes, visual aids, personal devotionals, and discussion guides. The series ran in two booklets.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Image",
+          "image": "/images/clean/_Clean2-BookletMockup-Transparent.png",
+          "url": "",
+          "caption": "",
+          "alt": "Clean series booklet",
+          "size": "Small"
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Book 1: February 21–March 28, 2021</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://e.issuu.com/embed.html?d=20210201-cleanbooklet_partone-digital&u=cccomaha",
+              "height": 500
+            }
+          ]
+        },
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Book 1 Print-at-Home PDF",
+              "url": "https://www.dropbox.com/s/9b2lf2omzw3qrha/20210202-CleanBooklet_PartOne-PRINTATHOME.pdf?dl=1"
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Book 2: April 4–May 23, 2021</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://e.issuu.com/embed.html?d=20210315-cleanbooklet_parttwo-digital&u=cccomaha",
+              "height": 500
+            }
+          ]
+        },
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Book 2 Print-at-Home PDF",
+              "url": "/s/20210323-CleanBooklet_PartTwo-PRINTATHOME.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Messages",
+      "eyebrow": "",
+      "anchor": "messages",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Code",
+          "code": "<div id=\"subsplash-embed-8gpn5bs\"></div><script>(function(){var t=document.getElementById(\"subsplash-embed-8gpn5bs\");var s=document.createElement(\"script\");s.onload=function(){subsplashEmbed(\"+a5a8/lb/ms/+vz9899s?embed&1614102546284\",\"https://subsplash.com/\",\"subsplash-embed-8gpn5bs\");};s.src=\"https://dashboard.static.subsplash.com/production/web-client/external/embed-1.1.0.js\";t.parentElement.insertBefore(s,t);})();</script>"
+        }
+      ]
+    }
+  ]
+}

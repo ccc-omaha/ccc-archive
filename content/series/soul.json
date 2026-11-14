@@ -1,0 +1,395 @@
+{
+  "title": "Soul Rhythms",
+  "slug": "soul",
+  "dates": "January 5–February 9, 2025",
+  "sort_date": "2025-01-05",
+  "scripture": "",
+  "card_image": "/images/cards/SoulRhythms-App_1024x1024.jpg",
+  "summary": "Six daily rhythms for slowing down with God: breathe, examine, confess, trust, forgive, and worship. Includes journaling prompts, book recommendations, podcasts, and group guides.",
+  "seo_description": "Six daily rhythms for slowing down with God: breathe, examine, confess, trust, forgive, and worship. Includes journaling prompts, book recommendations, podcasts, and group guides.",
+  "hero": {
+    "background": "/images/soul/SoulRhythms-bg.jpg",
+    "background_color": "Cream",
+    "title_image": "/images/soul/SoulRhythms-title.png",
+    "image": "",
+    "show_title": false,
+    "tagline": "",
+    "buttons": []
+  },
+  "sections": [
+    {
+      "heading": "Soul Rhythms",
+      "eyebrow": "",
+      "anchor": "intro",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Take time every day to slow down with a pen in hand. Consider each question, writing as the Lord leads you and allowing the Spirit to refresh your mind and soul.</p>",
+          "collapsed_title": ""
+        }
+      ]
+    },
+    {
+      "heading": "Breathe",
+      "eyebrow": "",
+      "anchor": "breathe",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Job 33:4</p><ul><li>Breathe in the intimacy of the Holy Spirit.</li><li>Still your soul. Focus on God.</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/soul/61D66KN2WZL._SL1500_.jpg",
+              "title": "The Ruthless Elimination of Hurry",
+              "text": "by John Mark Comer",
+              "url": "https://a.co/d/hohfCJs",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/91JkW369-eL._SL1500_.jpg",
+              "title": "Sacred Rhythms",
+              "text": "by Ruth Haley Barton",
+              "url": "https://a.co/d/2oLz9tu",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/81xa6a8w9iL._SL1500_.jpg",
+              "title": "Breath as Prayer",
+              "text": "by Jennifer Tucker",
+              "url": "https://a.co/d/ijfhQRu",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/81vc1H8EX6L._SL1500_.jpg",
+              "title": "Try Softer",
+              "text": "by Aundi Kolber",
+              "url": "https://a.co/d/2iRUUqE",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Examine",
+      "eyebrow": "",
+      "anchor": "examine",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Genesis 3:9–11</p><ul><li>Where are you? Who told you?</li><li>Notice your reality before God.</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/soul/51hRWwIUcoL._SL1499_.jpg",
+              "title": "Daily Examen Journal",
+              "text": "",
+              "url": "https://a.co/d/cMI36vN",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/71dULlMBWkL._SL1500_.jpg",
+              "title": "Renovation of the Heart in Daily Practice",
+              "text": "by Dallas Willard and Jan Johnson",
+              "url": "https://a.co/d/9KXMnDu",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/81Oe68-siUL._SL1500_.jpg",
+              "title": "Boundaries for Your Soul",
+              "text": "by Alison Cook and Kimberly Miller",
+              "url": "https://a.co/d/3vHYpmG",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Annual Self-Examination",
+              "url": "/s/Annual-Examen.pdf"
+            },
+            {
+              "label": "Where Are You?",
+              "url": "/s/WhereAreYou.jpg"
+            },
+            {
+              "label": "Feelings Wheel",
+              "url": "https://feelingswheel.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Confess",
+      "eyebrow": "",
+      "anchor": "confess",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>1 John 1:9</p><ul><li>What do you need to confess?</li><li>Agree with God about what is wrong in you and this world.</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/soul/81Xel0Ga43L._SL1500_.jpg",
+              "title": "The Soul of Desire",
+              "text": "by Curt Thompson",
+              "url": "https://a.co/d/gYHmwOn",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/514zSPEBrsL.jpg",
+              "title": "Repentance",
+              "text": "by C. John Miller",
+              "url": "https://a.co/d/fUhppon",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Trust",
+      "eyebrow": "",
+      "anchor": "trust",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>1 Peter 5:6–7</p><ul><li>What are you afraid of?</li><li>Cast all your cares on him.</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/soul/81XP4hEXDXL._SL1500_.jpg",
+              "title": "The Anxious Generation",
+              "text": "by Jonathan Haidt",
+              "url": "https://a.co/d/igDokyv",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/91b-gK2HDOL._SL1500_.jpg",
+              "title": "Resilient",
+              "text": "by John Eldredge",
+              "url": "https://a.co/d/0eiqNjZ",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/811Gr9Cw5LL._SL1500_.jpg",
+              "title": "Made for People",
+              "text": "by Justin Whitmel Earley",
+              "url": "https://a.co/d/6eUqFRL",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Forgive",
+      "eyebrow": "",
+      "anchor": "forgive",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Matthew 6:12</p><ul><li>How have you been hurt?</li><li>Release the bitterness.</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/soul/71as2INyQTL._SL1500_.jpg",
+              "title": "Forgive and Forget",
+              "text": "by Lewis B. Smedes",
+              "url": "https://a.co/d/9HMBGmY",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/81BfEN90D2L._SL1500_.jpg",
+              "title": "Forgiving What You Can’t Forget",
+              "text": "by Lysa TerKeurst",
+              "url": "https://a.co/d/a9PqW3q",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/81rhZkApHmL._SL1500_.jpg",
+              "title": "Forgive",
+              "text": "by Timothy Keller",
+              "url": "https://a.co/d/2upFGtc",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Worship",
+      "eyebrow": "",
+      "anchor": "worship",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>1 Thessalonians 5:16–18</p><ul><li>What can you celebrate about God?</li><li>List three things for which you are grateful.</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/soul/81dYZJP-nXL._SL1500_.jpg",
+              "title": "One Thousand Gifts",
+              "text": "by Ann Voskamp",
+              "url": "https://a.co/d/1VN8jUA",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/71G0B8g2TZL._SL1500_.jpg",
+              "title": "Sing!",
+              "text": "by Keith and Kristyn Getty",
+              "url": "https://a.co/d/3XygyEP",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/714kojMkppL._SL1500_.jpg",
+              "title": "Worship",
+              "text": "by A. W. Tozer",
+              "url": "https://a.co/d/2Sf0sMI",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/61fI8LtAPwL._SL1500_.jpg",
+              "title": "Building Bounce",
+              "text": "by Marcus Warner and Stefanie Hinman",
+              "url": "https://a.co/d/30l9hPq",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Take the Joy Dare from Ann Voskamp",
+              "url": "https://annvoskamp.com/joy-dares/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Podcasts & Other Resources",
+      "eyebrow": "",
+      "anchor": "podcasts",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Tiles",
+          "items": [
+            {
+              "image": "/images/soul/49pr261ct3r415tkfeqeq7gjqjpx.jpeg",
+              "title": "John Ortberg | Become New Podcast",
+              "text": "",
+              "url": "https://becomenew.buzzsprout.com",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/NEW-ATG-Podcast-Cover-1-2-.jpg",
+              "title": "Attaching to God Podcast",
+              "text": "",
+              "url": "https://www.embodiedfaith.life/podcast",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/poster.jpeg",
+              "title": "The Best of You Podcast",
+              "text": "",
+              "url": "https://pod.link/1620059010",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/460x0w.jpeg",
+              "title": "The Pause App",
+              "text": "",
+              "url": "https://wildatheart.org/apps/one-minute-pause/",
+              "label": ""
+            },
+            {
+              "image": "/images/soul/460x0w-2.jpeg",
+              "title": "Lectio 365 App",
+              "text": "",
+              "url": "https://www.24-7prayer.com/resource/lectio-365/",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Discussion Guides",
+      "eyebrow": "",
+      "anchor": "discussion-guides",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Week 1",
+              "url": "/s/15_2025_Soul-Rhythms.pdf"
+            },
+            {
+              "label": "Week 2",
+              "url": "/s/112_2025_Soul-Rhythms.pdf"
+            },
+            {
+              "label": "Week 3",
+              "url": "/s/119_2025_Soul-Rhythms-002.pdf"
+            },
+            {
+              "label": "Week 4",
+              "url": "/s/126_2025_Soul-Rhythms.pdf"
+            },
+            {
+              "label": "Week 5",
+              "url": "/s/22_2025_Soul-Rhythms.pdf"
+            },
+            {
+              "label": "Week 6",
+              "url": "/s/29_2025_Soul-Rhythms.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

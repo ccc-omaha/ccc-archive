@@ -1,0 +1,204 @@
+{
+  "title": "Revelation",
+  "slug": "revelation",
+  "dates": "Summer–Fall 2020",
+  "sort_date": "2020-07-26",
+  "scripture": "Revelation 1–22",
+  "card_image": "/images/cards/01-RevelationPart1-App_1024x1024.jpg",
+  "summary": "A 16-week experience through the entire book of Revelation. Four series booklets, every message, and sermon illustrations.",
+  "seo_description": "A 16-week experience through the entire book of Revelation. Four series booklets, every message, and sermon illustrations.",
+  "hero": {
+    "background": "/images/revelation/RevelationPart1_BG-Dark.jpg",
+    "background_color": "Purple",
+    "title_image": "/images/revelation/Revelation--ONlyWeb-FG.png",
+    "image": "",
+    "show_title": false,
+    "tagline": "A series through the book of Revelation",
+    "buttons": [
+      {
+        "label": "Series Booklets",
+        "url": "#booklets"
+      },
+      {
+        "label": "Watch Messages",
+        "url": "#messages"
+      },
+      {
+        "label": "Illustrations",
+        "url": "#illustrations"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "About the Series",
+      "eyebrow": "",
+      "anchor": "about",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Video",
+          "url": "https://vimeo.com/440732563",
+          "caption": ""
+        },
+        {
+          "kind": "Text",
+          "text": "<p>Let’s face it, most of us avoid the book of Revelation… There’s so much symbolism, and the apocalyptic language can be confusing to navigate. But Revelation is the only book of the Bible that has a blessing attached. And amongst many other things, we believe it will inspire you to live with expectancy and hope, to persevere in times of difficulty, and to maintain an eternal perspective.</p><p>This 16-week experience took us through the entire book of Revelation. View past messages or engage with the digital booklets below.</p>",
+          "collapsed_title": ""
+        }
+      ]
+    },
+    {
+      "heading": "Series Booklets",
+      "eyebrow": "",
+      "anchor": "booklets",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Engage with the <em>Revelation</em> series using message notes, visual aids, personal devotionals, and discussion guides.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/revelation/RevelationBookletCover_Book1.png",
+              "title": "Part One: Sooner Than You Think",
+              "text": "",
+              "url": "/s/20200817-RevelationBooklet_PartOne-PRINTATHOME.pdf",
+              "label": "Print-at-Home PDF"
+            },
+            {
+              "image": "/images/revelation/RevelationBookletCover_Book2.png",
+              "title": "Part Two: Worthy Is the Lamb",
+              "text": "",
+              "url": "/s/20200924-RevelationBooklet_PartTwo-PRINTATHOME.pdf",
+              "label": "Print-at-Home PDF"
+            },
+            {
+              "image": "/images/revelation/RevelationBookletCover_Book3.png",
+              "title": "Part Three: Triumph of the King",
+              "text": "",
+              "url": "/s/20200921-RevelationBooklet_PartThree-PRINTATHOME.pdf",
+              "label": "Print-at-Home PDF"
+            },
+            {
+              "image": "/images/revelation/RevelationBookletCover_Book4.png",
+              "title": "Part Four: Heaven Comes to Earth",
+              "text": "",
+              "url": "/s/20201026-RevelationBooklet_PartFour-PRINTATHOME.pdf",
+              "label": "Print-at-Home PDF"
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Part One: Sooner Than You Think</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://e.issuu.com/embed.html?d=20200727-revelationbooklet_partone-digital&u=cccomaha",
+              "height": 500
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Part Two: Worthy Is the Lamb</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://e.issuu.com/embed.html?d=20200818-revelationbooklet_parttwo-digital&u=cccomaha",
+              "height": 500
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Part Three: Triumph of the King</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://e.issuu.com/embed.html?d=20200921-revelationbooklet_partthree-digital&u=cccomaha",
+              "height": 500
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Part Four: Heaven Comes to Earth</h3>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://e.issuu.com/embed.html?d=20201005-revelationbooklet_partfour-digital&u=cccomaha",
+              "height": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Series Messages",
+      "eyebrow": "",
+      "anchor": "messages",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Code",
+          "code": "<div id=\"subsplash-embed-zxy8wt3\"></div><script>(function(){var t=document.getElementById(\"subsplash-embed-zxy8wt3\");var s=document.createElement(\"script\");s.onload=function(){subsplashEmbed(\"+a5a8/lb/li/+4hdsbck?embed&1599668203605\",\"https://subsplash.com/\",\"subsplash-embed-zxy8wt3\");};s.src=\"https://dashboard.static.subsplash.com/production/web-client/external/embed-1.1.0.js\";t.parentElement.insertBefore(s,t);})();</script>"
+        }
+      ]
+    },
+    {
+      "heading": "Illustrations",
+      "eyebrow": "",
+      "anchor": "illustrations",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Download the sermon illustrations for each part of the series.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Part 1 Illustrations",
+              "url": "https://www.dropbox.com/sh/55x6qrblr1ixfms/AADwPgb8LX2Pdmh9nDtZ1h81a?dl=1"
+            },
+            {
+              "label": "Part 2 Illustrations",
+              "url": "https://www.dropbox.com/sh/j94ajdn0u24shfm/AACTnUUvwRrRPzm3BuXMQUr0a?dl=1"
+            },
+            {
+              "label": "Part 3 Illustrations",
+              "url": "https://www.dropbox.com/sh/574chqn1hpfviyv/AAA7g6012-nX8oesMkZ9-5JKa?dl=1"
+            },
+            {
+              "label": "Part 4 Illustrations",
+              "url": "https://www.dropbox.com/sh/p0f1xk7xb8ty62x/AAD2dyWprT0UFIyfW3G40KMia?dl=1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

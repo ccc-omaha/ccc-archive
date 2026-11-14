@@ -1,0 +1,379 @@
+{
+  "title": "Origins",
+  "slug": "origins",
+  "dates": "February 20–May 22, 2022",
+  "sort_date": "2022-02-20",
+  "scripture": "Genesis 1–11",
+  "card_image": "/images/cards/05-Origins-App_1024x1024.jpg",
+  "summary": "A series through Genesis 1–11: why we are here, how it all began, what went wrong, and how God is restoring it. Visual outlines, charts, a reading guide, and weekly discussion guides.",
+  "seo_description": "A series through Genesis 1–11: why we are here, how it all began, what went wrong, and how God is restoring it. Visual outlines, charts, a reading guide, and weekly discussion guides.",
+  "hero": {
+    "background": "",
+    "background_color": "Navy",
+    "title_image": "",
+    "image": "/images/cards/05-Origins-App_1024x1024.jpg",
+    "show_title": false,
+    "tagline": "At some point in our lives, we have to wonder: Why are we here? How did all of this come to be? What are the origins of our universe, our story, and our purpose? In the first eleven chapters of the Bible, in the book of Genesis, we see a cosmic story unfolding, an epic narrative, of God shaping a good and meaningful world, what went wrong, and how God is redeeming the mess, restoring us to something good.",
+    "buttons": [
+      {
+        "label": "Messages",
+        "url": "https://www.youtube.com/watch?list=PLzdVE7HNsqM8cdp52J4LvoyOebpaVsmVZ&v=VLSFpPIlN-U"
+      },
+      {
+        "label": "Discussion Guides",
+        "url": "#discussion-guides"
+      },
+      {
+        "label": "Additional Resources",
+        "url": "#resources"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Genesis 1–11 Visual Outline",
+      "eyebrow": "",
+      "anchor": "visual-outline",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/origins/Origins-VisualOutline-UPDATED.jpg",
+          "url": "/s/Origins-VisualOutline-UPDATED.pdf",
+          "caption": "Tap or click to view the printable PDF.",
+          "alt": "Genesis 1–11 visual outline",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "15 Things We Can Gather from Genesis 1",
+      "eyebrow": "",
+      "anchor": "genesis-1",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<ul><li>Time is linear</li><li>The universe has a beginning</li><li>There is one God, not many</li><li>He is the creator of all you see</li><li>He took “chaos and void” and made it into something</li><li>He spoke things into existence by his power and intellect</li><li>What he made was good</li><li>He created skies, seas, and land</li><li>He is the origin of all plants and animals</li><li>Sun and moon are timekeepers, not God</li><li>Weather comes from his design</li><li>Food was created by his design</li><li>People, male and female, were created in his image</li><li>People were created to rule over creation</li><li>Altogether, it was very good</li></ul>",
+          "collapsed_title": ""
+        }
+      ]
+    },
+    {
+      "heading": "Diagram of Ancient Cosmology",
+      "eyebrow": "",
+      "anchor": "ancient-cosmology",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/origins/Origins-AncientCosmology-1.jpg",
+          "url": "/s/Origins-AncientCosmology.pdf",
+          "caption": "Tap or click to view the printable PDF.",
+          "alt": "Diagram of ancient cosmology",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "Genesis 1 Creation Chart",
+      "eyebrow": "",
+      "anchor": "creation-chart",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/origins/Origins-CreationChart.png",
+          "url": "/s/Origins-CreationChart.pdf",
+          "caption": "Tap or click to view the printable PDF.",
+          "alt": "Genesis 1 creation chart",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "Comparison of Creation Narratives",
+      "eyebrow": "",
+      "anchor": "creation-narratives",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/origins/20220120-Origins-Gen1And2Comparison_BLEEDS.png",
+          "url": "/s/Origins-Genesis1And2Comparison.pdf",
+          "caption": "Tap or click to view the printable PDF.",
+          "alt": "Comparison of Genesis 1 and 2",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "Noah’s Ark Ship Comparison",
+      "eyebrow": "",
+      "anchor": "ark",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/origins/Origins-ShipSizeShips.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Noah's ark compared with other ships",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "Descendants Chart",
+      "eyebrow": "",
+      "anchor": "descendants",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/origins/DescendantsChart-Online.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Descendants chart",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "Table of Nations",
+      "eyebrow": "",
+      "anchor": "table-of-nations",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/origins/TableOfNations-Online.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Table of nations",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "Reading Guide",
+      "eyebrow": "",
+      "anchor": "reading-guide",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<h3>Three Steps to Inductive Bible Study</h3><p><strong>Observe:</strong> <em>What does it say?</em></p><ul><li>Look for who, what, when, where, and how.</li><li>Look for repeated words, lists, and themes.</li><li>Identify connecting words, now, and, then, so, etc.</li><li>Find contrasts and comparisons.</li></ul><p><strong>Interpret:</strong> <em>What does it mean?</em></p><ul><li>What is the author’s intent or purpose?</li><li>How would the original audience understand it?</li><li>What was the historical context?</li><li>How does this connect to the surrounding passages?</li></ul><p><strong>Apply:</strong> <em>How does it apply to my life?</em></p><ul><li>How does this fit into God’s larger story of redemption worked out through his creation?</li><li>Is there a promise to encourage/strengthen me?</li><li>Did I see something about God’s character?</li><li>Is there a command to obey or principle to apply?</li><li>How can I pray these truths into my life?</li></ul><h3>Your Weekly Reading Plan</h3><p><strong>DAY 1:</strong> Read through the passage in Genesis 1–11.</p><p><strong>DAYS 2–4:</strong> Reread the smaller passages.</p><p><strong>DAY 5:</strong> Read the corresponding passage from the New Testament. In addition to regular inductive Bible study, ask:</p><ul><li>How does this passage fulfill a picture or reverse the curse of the Old Testament?</li><li>What other key parallels can I find between the Genesis 1–11 reading and the New Testament text?</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Genesis 1–11 Reading Plan",
+              "url": "/s/20220120-Origins-ReadingGuide.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Discussion Guides",
+      "eyebrow": "",
+      "anchor": "discussion-guides",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Week 1",
+              "url": "/s/220-Origins.pdf"
+            },
+            {
+              "label": "Week 2",
+              "url": "/s/227-Origins.pdf"
+            },
+            {
+              "label": "Week 3",
+              "url": "/s/36-Origins.pdf"
+            },
+            {
+              "label": "Week 4",
+              "url": "/s/313-Origins.pdf"
+            },
+            {
+              "label": "Week 5",
+              "url": "/s/320-Origins.pdf"
+            },
+            {
+              "label": "Week 6",
+              "url": "/s/327-Origins.pdf"
+            },
+            {
+              "label": "Week 7",
+              "url": "/s/43-Origins.pdf"
+            },
+            {
+              "label": "Week 8",
+              "url": "/s/410-Origins.pdf"
+            },
+            {
+              "label": "Week 9",
+              "url": "/s/417-Origins.pdf"
+            },
+            {
+              "label": "Week 10",
+              "url": "/s/424_Origins.pdf"
+            },
+            {
+              "label": "Week 11",
+              "url": "/s/51_Origins.pdf"
+            },
+            {
+              "label": "Week 12",
+              "url": "/s/58-Origins.pdf"
+            },
+            {
+              "label": "Week 13",
+              "url": "/s/515-Origins.pdf"
+            },
+            {
+              "label": "Week 14",
+              "url": "/s/522_29-Missions.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Videos",
+      "eyebrow": "Additional Resources",
+      "anchor": "resources",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/origins/image-asset.jpeg",
+              "title": "Is Genesis 1 Really About How the World Was Made?",
+              "text": "BibleProject",
+              "url": "https://www.youtube.com/watch?v=afVN-7vY0KA",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/image-asset-2.jpeg",
+              "title": "Creation: The Beginning of Life As We Know It / The Story / Mark Ashton",
+              "text": "Christ Community Church",
+              "url": "https://www.youtube.com/watch?v=D8aQmR6DQOg",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/image-asset-3.jpeg",
+              "title": "Understanding Genesis with Dr. John Walton - unCOMFORTABLE 123",
+              "text": "Christ Community Church",
+              "url": "https://www.youtube.com/watch?v=C-avC_Imlpc",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Books",
+      "eyebrow": "",
+      "anchor": "books",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/origins/51VMyrgNrrL._SX331_BO1-204-203-200_.jpg",
+              "title": "The Lost World of Adam and Eve",
+              "text": "by John H. Walton",
+              "url": "https://smile.amazon.com/dp/0830824618/ref=cm_sw_em_r_mt_dp_86861JZPF85DEA9S1HMP?_encoding=UTF8&psc=1",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/41eaV0wlQ4L._SX331_BO1-204-203-200_.jpg",
+              "title": "The Lost World of Genesis One",
+              "text": "by John H. Walton",
+              "url": "https://smile.amazon.com/dp/0830837043/ref=cm_sw_em_r_mt_dp_MSGRXKTZMZS5GBDQWT0P",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/51DGWEWdsxL._SX331_BO1-204-203-200_.jpg",
+              "title": "The Lost World of the Flood",
+              "text": "by Tremper Longman III and John H. Walton",
+              "url": "https://www.amazon.com/Lost-World-Flood-Mythology-Theology/dp/083085200X/ref=sr_1_1?crid=3GTH614IA4HL3&keywords=lost+world+of+the+flood&qid=1644512757&sprefix=lost+world+of+the+flood%2Caps%2C103&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/51D8idiZQiL._SX326_BO1-204-203-200_.jpg",
+              "title": "NIV Application Commentary: Genesis",
+              "text": "by John H. Walton",
+              "url": "https://www.amazon.com/NIV-Application-Commentary-Genesis/dp/0310206170/ref=sr_1_2?crid=ERENHYWA478E&keywords=niv+application+commentary+genesis+john+walton&qid=1644504850&sprefix=niv+application+commentary+genesis+john+walton%2Caps%2C93&sr=8-2",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/413ZUhTEGQL._SY344_BO1-204-203-200_.jpg",
+              "title": "Origins of Life",
+              "text": "by Fazale Rana and Hugh Ross",
+              "url": "https://www.amazon.com/Origins-Life-Fazale-Rana/dp/1886653151/ref=sr_1_1?crid=3G9N98SQTB9BX&keywords=origins+of+life+rana+ross&qid=1644504901&sprefix=origins+of+life+rana+ross%2Caps%2C93&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/51ayFB-rlnL._SX317_BO1-204-203-200_.jpg",
+              "title": "Who Was Adam?",
+              "text": "by Fazale Rana and Hugh Ross",
+              "url": "https://www.amazon.com/Who-Was-Adam-Creation-Approach/dp/1576835774/ref=sr_1_2?crid=153J80FUE2VHY&keywords=who+was+adam+rana+ross&qid=1644504879&sprefix=who+was+adam+rana+ross%2Caps%2C92&sr=8-2",
+              "label": ""
+            },
+            {
+              "image": "/images/origins/51xciW2SOdL._SX326_BO1-204-203-200_.jpg",
+              "title": "Show Me God",
+              "text": "by Fred Heeren",
+              "url": "https://www.amazon.com/Show-Me-God-Message-Telling/dp/1885849532/ref=sr_1_1?crid=2EJT9KFP6YHST&keywords=show+me+god+fred+heeren&qid=1644504864&sprefix=show+me+god+fred+heeren%2Caps%2C90&sr=8-1",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Podcasts",
+      "eyebrow": "",
+      "anchor": "podcasts",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Tiles",
+          "items": [
+            {
+              "image": "/images/origins/Artboard-2.jpg",
+              "title": "Ancient Cosmology",
+              "text": "",
+              "url": "https://bibleproject.com/podcast/series/ancient-cosmology/",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "title": "B•I•B•L•E",
+  "slug": "bible",
+  "dates": "May 7–June 4, 2023",
+  "sort_date": "2023-05-07",
+  "scripture": "",
+  "card_image": "/images/cards/BIBLE-App_1024x1024.jpg",
+  "summary": "A five-week series on how we got the Bible and how to read it well, with a books-of-the-Bible chart, recommended reading, videos, podcasts, resources for kids and ASL, and group curriculum.",
+  "seo_description": "A five-week series on how we got the Bible and how to read it well, with a books-of-the-Bible chart, recommended reading, videos, podcasts, resources for kids and ASL, and group curriculum.",
+  "hero": {
+    "background": "/images/bible/Web-BG.jpg",
+    "background_color": "Cream",
+    "title_image": "/images/bible/BIBLE-Word-Mark.png",
+    "image": "",
+    "show_title": false,
+    "tagline": "",
+    "buttons": []
+  },
+  "sections": [
+    {
+      "heading": "Books of the Bible",
+      "eyebrow": "",
+      "anchor": "books-of-the-bible",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/bible/MarkSlides-CenterScreen-20.jpg",
+          "url": "/s/BooksOfTheBible-Lettersize-Original.pdf",
+          "caption": "Tap or click to view the printable PDF.",
+          "alt": "Books of the Bible chart",
+          "size": "Wide"
+        }
+      ]
+    },
+    {
+      "heading": "Community Group Curriculum",
+      "eyebrow": "",
+      "anchor": "discussion-guides",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Ruth Narrative Reading Plan",
+              "url": "/s/Ruth-reading-plan.pdf"
+            },
+            {
+              "label": "Week 1",
+              "url": "/s/57-Bible-Series-Narrative.pdf"
+            },
+            {
+              "label": "Week 2",
+              "url": "/s/514-Bible-Series-Prophecy.pdf"
+            },
+            {
+              "label": "Week 3",
+              "url": "/s/521-Bible-Series-Gospel-Edits.pdf"
+            },
+            {
+              "label": "Week 4",
+              "url": "/s/528-Bible-Series_NT-Letters.pdf"
+            },
+            {
+              "label": "Week 5",
+              "url": "/s/67-Bible-Series-June4.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Books",
+      "eyebrow": "",
+      "anchor": "books",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/bible/41EoVB1h0lL.jpg",
+              "title": "Hard Sayings of the Bible",
+              "text": "by Walter C. Kaiser Jr., Peter H. Davids, F. F. Bruce & Manfred Brauch",
+              "url": "https://a.co/d/ebdcBnf",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/61IlKz8IEUL.jpg",
+              "title": "The Hard Sayings of Jesus",
+              "text": "by F. F. Bruce",
+              "url": "https://a.co/d/63YWrKf",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/615H91Lb6FL.jpg",
+              "title": "Hard Sayings of Paul",
+              "text": "by Manfred Brauch",
+              "url": "https://a.co/d/ijXEaen",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/41LVk7H7h5L._SX327_BO1-204-203-200_.jpg",
+              "title": "How to Read the Bible for All it’s Worth",
+              "text": "by Gordon Fee",
+              "url": "https://www.amazon.com/dp/0310246040?ref_=cm_sw_r_cp_ud_dp_RD7K765NFBKFG4ER7ESX",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/B00FJ34XZQ_77587569_cover.jpeg",
+              "title": "Surprised by Scripture",
+              "text": "by N. T. Wright",
+              "url": "https://www.amazon.com/dp/0062230549?ref_=cm_sw_r_cp_ud_dp_A82VXHGSAJ58N5BPCN17",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/0801880882.01.S001.LXXXXXXX.jpg",
+              "title": "Sanctified Vision",
+              "text": "by John O’Keefe & R. R. Reno",
+              "url": "https://www.amazon.com/dp/0801880882?ref_=cm_sw_r_cp_ud_dp_4CC0ZPG24SECMMJQNKST",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/0802428827.01.S001.LXXXXXXX.jpg",
+              "title": "From God to Us: How We Got Our Bible",
+              "text": "by Norman L. Geisler & William E. Nix",
+              "url": "https://www.amazon.com/dp/0802428827?ref_=cm_sw_r_cp_ud_dp_C82FFERN3HGBJGS8Z8V7",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/083084032X.01.S001.LXXXXXXX.jpg",
+              "title": "The Lost World of Scripture: Ancient Literary Culture and Biblical Authority",
+              "text": "by John H Walton & D Brent Sandy",
+              "url": "https://www.amazon.com/gp/product/083084032X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=thebi092-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=083084032X&linkId=e78d2424c7e83be14a0b25be95ef4127",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Videos",
+      "eyebrow": "",
+      "anchor": "videos",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/bible/QuestionMarkThumb_BestBibleTranslation.jpg",
+              "title": "What Is the Most Accurate Translation of the Bible?",
+              "text": "",
+              "url": "https://www.youtube.com/watch?v=0z5cnlp2LLk",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/419226.jpeg",
+              "title": "Bible Unearthed",
+              "text": "Dave Stotts",
+              "url": "https://app.rightnowmedia.org/en/content/details/418269",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/305220.jpeg",
+              "title": "How to Read The Bible",
+              "text": "Tim Mackie",
+              "url": "https://app.rightnowmedia.org/en/content/details/240001",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Claim Your Free RightNow Media Subscription",
+              "url": "https://www.rightnowmedia.org/Account/Invite/CCCOmaha"
+            },
+            {
+              "label": "More from BibleProject",
+              "url": "https://bibleproject.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Podcasts",
+      "eyebrow": "",
+      "anchor": "podcasts",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/bible/Thumbnail.jpg",
+              "title": "1946: The year the word homosexual was added to the Bible",
+              "text": "unCOMFORTABLE Podcast 170",
+              "url": "https://www.youtube.com/watch?v=l-LYSKl96YA",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/Thumbnail-2.jpg",
+              "title": "Understanding Genesis with Dr. John Walton",
+              "text": "unCOMFORTABLE 123",
+              "url": "https://www.youtube.com/watch?v=C-avC_Imlpc",
+              "label": ""
+            },
+            {
+              "image": "/images/bible/maxresdefault.jpg",
+              "title": "Does the Bible Really Say That?",
+              "text": "unCOMFORTABLE 089",
+              "url": "https://www.youtube.com/watch?v=6zD0h3OQrqM",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "For Kids",
+      "eyebrow": "",
+      "anchor": "kids",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Embed",
+          "items": [
+            {
+              "url": "https://www.youtube.com/embed/videoseries?list=PLp5nBAg5hITfZhnXcOKTe-kBxJ9xfI3Jl",
+              "height": 0
+            }
+          ]
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Watch BibleProject for Kids on YouTube",
+              "url": "https://youtube.com/playlist?list=PLp5nBAg5hITfZhnXcOKTe-kBxJ9xfI3Jl"
+            }
+          ]
+        },
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/bible/bibleapp4kidz.jpg",
+              "title": "Bible App for Kids",
+              "text": "Free app with interactive Bible stories.",
+              "url": "https://bibleappforkids.com#download",
+              "label": "Download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "ASL",
+      "eyebrow": "",
+      "anchor": "asl",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/bible/deafmissions.jpg",
+              "title": "Deaf Missions",
+              "text": "The Bible in American Sign Language.",
+              "url": "https://www.deafmissions.com/app?sapurl=LysyOGQxL2FwcD9lbWJlZD10cnVlJnJlY2VudFJvdXRlPWFwcC53ZWItYXBwLnJlZGlyZWN0b3ImcmVjZW50Um91dGVTbHVnPWFw",
+              "label": "Download"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

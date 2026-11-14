@@ -1,0 +1,347 @@
+{
+  "title": "The Chronicles of Judah",
+  "slug": "judah",
+  "dates": "September 8–December 8, 2024",
+  "sort_date": "2024-09-08",
+  "scripture": "2 Chronicles 10–36",
+  "card_image": "/images/cards/ChroniclesOfJudah-App_1024x1024.jpg",
+  "summary": "From excellence to exile: a 14-week series through 2 Chronicles 10–36, with an introduction to the book, timelines, a reading guide, a worship playlist, and weekly discussion guides.",
+  "seo_description": "From excellence to exile: a 14-week series through 2 Chronicles 10–36, with an introduction to the book, timelines, a reading guide, a worship playlist, and weekly discussion guides.",
+  "hero": {
+    "background": "",
+    "background_color": "Navy",
+    "title_image": "",
+    "image": "/images/heroes/ChroniclesOfJudah-Web_1920x1080.jpg",
+    "show_title": false,
+    "tagline": "",
+    "buttons": [
+      {
+        "label": "Reading Guide",
+        "url": "#reading-guide"
+      },
+      {
+        "label": "Discussion Guides",
+        "url": "#discussion-guides"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "eyebrow": "",
+      "anchor": "introduction",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<h3>Welcome</h3><p>The Bible is the inspired Word of God. It includes sixty-six books and is written by forty authors over a span of 1500 years. Stop and ponder this for a moment. How is it possible to have so many different books and authors writing throughout several centuries to form one reliable, accurate, and internally consistent book? Only with God would this be possible!</p><p>The Bible is God’s word to us and a guide to life. For the one who is new to Bible study, there is satisfaction that can only be found by believing in Jesus. For the one who has been studying the Bible for some time, there is no limit to the wisdom that can be learned through Bible study.</p><h3>Author</h3><p>While we do not know for certain who wrote the book of 2 Chronicles, many scholars believe it is Ezra (from the books Ezra and Nehemiah). This is largely based on literary style and similarities to the content of Ezra’s other writings.</p><h3>Title</h3><p>The Hebrew title of 2 Chronicles may be translated as “the words of the days.” 2 Chronicles was written as a supplement to the books of Samuel and Kings, which are other Hebrew books of the Bible. 2 Chronicles provides God-inspired details that are not otherwise found in either Samuel or Kings.</p><h3>Date</h3><p>2 Chronicles covers the events between 970 BC and 538 BC, but it was written much later, likely around 460 BC. It is the last book of the Tanach, the Hebrew Bible. Thus, 2 Chronicles was the last book written before the birth of Jesus and the New Testament.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Image",
+          "image": "/images/judah/DividedKingdomTimeline_WEB.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Divided kingdom timeline",
+          "size": "Wide"
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Audience</h3><p>The primary audience for 2 Chronicles was the people of Judah who had returned from exile in Babylon. It was written to remind them of their history and encourage them to remain faithful to the covenant.</p><h3>Map</h3><p>2 Chronicles is based in Jerusalem and the land of Judah.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Image",
+          "image": "/images/judah/IsrealAndJudahs2Tribes.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Map of Israel and Judah",
+          "size": "Medium"
+        },
+        {
+          "kind": "Text",
+          "text": "<h3>Background</h3><p>When 2 Chronicles was written, the books of 1 and 2 Chronicles were combined into one larger book (collectively referred to as “Chronicles”) divided into three major sections.</p><p>The first major section is the genealogy of the twelve tribes of Israel, beginning with Adam in the book of Genesis and ending with the genealogy of King Saul.</p><p>The second major section covers the united kingdom of King David and his son King Solomon. This section focuses on positive impacts made by both Kings. King David was the anointed king over Israel and prepared to build the temple. King Solomon oversaw the building of the temple and was portrayed as an exemplary king. The author emphasized building the temple and positioned Kings David and Solomon as representatives of the future Messianic King.</p><p>The third major section is the divided kingdom of Israel after King Solomon’s death. Ten of the twelve tribes of Israel revolted and chose a king other than King Solomon’s son, Rehoboam. These ten tribes became Israel and formed the northern kingdom. The remaining two tribes, Judah and Benjamin, became the southern kingdom of Judah. The southern kingdom was loyal to the covenant God made with King David and ultimately became the heir of Israel. This section of Chronicles focuses on Judah and is silent on the northern kingdom unless there was a direct impact on the southern kingdom.</p><p>Chronicles ends with an incomplete thought (“and let him go up…”), causing us to wonder what more might have been. It is particularly intriguing to know an incomplete thought is the conclusion of the Hebrew Bible. Was God saying there is much more to come?</p><h3>Key Themes</h3><p>There are three key themes in Chronicles:</p><p>Obedience or disobedience to the Mosaic Covenant: God’s people were to fulfill their covenant relationship with him as found in the Law (Exodus 20–Deuteronomy 31). Obedience would bring blessing and disobedience would lead to judgment and exile.</p><p>The Temple: The temple was the symbol of God’s presence with his people.</p><p>The people of Israel: The author explores the role of Israel and Judah in the story of God.</p><h3>Why study 2 Chronicles now?</h3><p>We can learn a great deal from the people of 2 Chronicles. God had done so much for them. He had invited them into a covenant relationship. He had placed them in the promised land and claimed them as his own. Yet, even with all of that, God’s people hardened their hearts and wandered away from him.</p><p>As you open your heart to hear from God, God can identify the areas where you are wandering away from him just as the Israelites did. As you study the Bible, pray for God to reveal himself. Ask questions such as:</p><ul><li>How does this passage mirror my life?</li><li>What truths can I apply to my life?</li><li>What does this teach me about God?</li></ul>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Image",
+          "image": "/images/judah/KingsAndProphetsTimeline_WEB.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Kings and prophets timeline",
+          "size": "Wide"
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Download Timeline PDF",
+              "url": "https://ccc-documents.s3.us-west-1.amazonaws.com/KingsAndProphetsTimeline_PrintFromHome.pdf"
+            },
+            {
+              "label": "Introduction PDF",
+              "url": "/s/20240904-2ChroniclesIntro.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Reading Guide",
+      "eyebrow": "",
+      "anchor": "reading-guide",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Each week pairs 2 Chronicles with the related passages from Kings and the prophets. Open a week to see the questions and readings.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>Where do I see God in this passage?</li><li>How does this passage fit in with the others I’m reading? <ul><li>2 Chronicles 8, 1 Kings 9</li><li>2 Chronicles 9, 1 Kings 10–11</li><li>1 Kings 12–14</li><li>2 Chronicles 10–12</li><li>2 Chronicles 13–16</li><li>1 Kings 15–16</li></ul></li></ul>",
+          "collapsed_title": "Week 1 (Week of September 8)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>How do I see God moving in Israel and Judah’s history?</li><li>How does that change how I see God’s work in our world today? <ul><li>2 Chronicles 17</li><li>1 Kings 17–19</li><li>1 Kings 20–21</li><li>2 Chronicles 18, 1 Kings 22</li><li>2 Chronicles 19–21</li><li>2 Chronicles 22–23</li></ul></li></ul>",
+          "collapsed_title": "Week 2 (Week of September 15)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>What does this passage tell me about God?</li><li>What questions does this raise? How might I seek answers? <ul><li>Obadiah 1</li><li>2 Kings 1–2</li><li>2 Kings 3–4</li><li>2 Kings 5–6</li><li>2 Kings 7–8</li><li>2 Kings 9–11</li></ul></li></ul>",
+          "collapsed_title": "Week 3 (Week of September 22)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>How does reading prophecy along with history enhance my understanding of both?</li><li>What surprised me the most in these passages and why? <ul><li>2 Chronicles 24, 2 Kings 12–13</li><li>2 Chronicles 25, 2 Kings 14</li><li>Jonah 1–4</li><li>2 Chronicles 26, 2 Kings 15</li><li>Isaiah 1–2</li><li>Isaiah 3–4</li></ul></li></ul>",
+          "collapsed_title": "Week 4 (Week of September 29)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>What characteristics of God do I see in these passages?</li><li>How do these passages fit into the broader story of the Bible? <ul><li>Isaiah 5–7</li><li>Isaiah 8–10</li><li>Amos 1–5</li><li>Amos 6–9</li><li>2 Chronicles 27, Isaiah 11–12</li><li>Micah 1–3</li></ul></li></ul>",
+          "collapsed_title": "Week 5 (Week of October 6)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>What do I find most challenging and why?</li><li>What gives me the most comfort and why? <ul><li>Micah 4–7</li><li>2 Chronicles 28, 2 Kings 16–17</li><li>Isaiah 13–14</li><li>Isaiah 15–17</li><li>Isaiah 18–20</li><li>Isaiah 21–23</li></ul></li></ul>",
+          "collapsed_title": "Week 6 (Week of October 13)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>What do the passages reveal about God? What do I learn about him?</li><li>What questions does the passage raise for me? <ul><li>Isaiah 24–27</li><li>2 Chronicles 29, 2 Kings 18</li><li>2 Chronicles 30–31</li><li>Hosea 1–5</li><li>Hosea 6–10</li><li>Hosea 11–14</li></ul></li></ul>",
+          "collapsed_title": "Week 7 (Week of October 20)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>How does reading these passages in context enhance my understanding?</li><li>What is one new thing I learned as I read? Isaiah 28–30 <ul><li>Isaiah 31–34</li><li>Isaiah 35–36</li><li>Isaiah 37–39</li><li>Isaiah 40–43</li><li>Isaiah 44–45</li></ul></li></ul>",
+          "collapsed_title": "Week 8 (Week of October 27)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>How does reading poetic prophecy challenge me? What do I appreciate about it?</li><li>Where do I see God in these passages? How does it point me towards the gospel?<ul><li> Isaiah 46–48</li><li>2 Kings 19</li><li>Isaiah 49–51</li><li>Isaiah 52–53</li><li>Isaiah 54–55</li><li>Isaiah 56–58</li></ul></li></ul>",
+          "collapsed_title": "Week 9 (Week of November 3)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>How would the people living in this time have understood these passages?</li><li>How do these passages change my view of God’s work in our current time? <ul><li>Isaiah 59–60</li><li>Isaiah 61–63</li><li>Isaiah 64–66</li><li>2 Kings 20–21</li><li>2 Chronicles 32–33</li><li>Nahum 1–3</li></ul></li></ul>",
+          "collapsed_title": "Week 10 (Week of November 10)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>What do I learn about God in these passages?</li><li>What surprises me most? Why? <ul><li>2 Chronicles 34–35</li><li>2 Kings 22–23</li><li>Zephaniah 1–3</li><li>Jeremiah 1–3</li><li>Jeremiah 4–6</li><li>Jeremiah 7–9</li></ul></li></ul>",
+          "collapsed_title": "Week 11 (Week of November 17)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>Where can I identify with these passages? What feels very foreign to me?</li><li>How does this passage fit in with the broader story of the Bible? <ul><li>Jeremiah 10–13</li><li>Jeremiah 14–17</li><li>Jeremiah 18–22</li><li>Jeremiah 23–25</li><li>Jeremiah 26–29</li><li>Jeremiah 30–31</li></ul></li></ul>",
+          "collapsed_title": "Week 12 (Week of November 24)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>Where do I see justice and hope in the passage? How do the two live together?</li><li>What does this tell me about God’s relationship with his people? <ul><li>Jeremiah 32–34</li><li>Jeremiah 35–37</li><li>Jeremiah 38–40</li><li>Habakkuk 1–3</li><li>Jeremiah 41–44</li><li>Jeremiah 45–47</li></ul></li></ul>",
+          "collapsed_title": "Week 13 (Week of December 1)"
+        },
+        {
+          "kind": "Text",
+          "text": "<p>As you read, ask:</p><ul><li>What is one thing I have learned about God through my reading?</li><li>How does reading these passages in context enhance my understanding? <ul><li>Jeremiah 48–49</li><li>Jeremiah 50</li><li>Psalm 74, 79</li><li>2 Kings 24–25</li><li>2 Chronicles 36</li><li>Jeremiah 51–52</li></ul></li></ul>",
+          "collapsed_title": "Week 14 (Week of December 8)"
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Reading Guide PDF",
+              "url": "/s/20240830-ChroniclesReadingGuide.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Discussion Guides",
+      "eyebrow": "",
+      "anchor": "discussion-guides",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Week 1",
+              "url": "/s/98_24-Chronicles-Rehoboam.pdf"
+            },
+            {
+              "label": "Week 2",
+              "url": "/s/915_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 3",
+              "url": "/s/922_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 4",
+              "url": "/s/929_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 5: Science and Faith Edition",
+              "url": "/s/106_24-Science-Faith-edition.pdf"
+            },
+            {
+              "label": "Week 6",
+              "url": "/s/1013_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 7: Missions edition",
+              "url": "/s/1020_24-Chroniclesmissions.pdf"
+            },
+            {
+              "label": "Week 8",
+              "url": "/s/1027_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 9",
+              "url": "/s/113_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 10",
+              "url": "/s/1110_24-Chronicles_.pdf"
+            },
+            {
+              "label": "Week 11",
+              "url": "/s/1117_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 12",
+              "url": "/s/1124_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 13",
+              "url": "/s/121_24-Chronicles.pdf"
+            },
+            {
+              "label": "Week 14",
+              "url": "/s/128_24-Chronicles-l4gs.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Listen to the Worship Playlist",
+      "eyebrow": "",
+      "anchor": "playlist",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Image",
+          "image": "/images/judah/iphone.jpg",
+          "url": "",
+          "caption": "",
+          "alt": "Chronicles of Judah playlist on a phone",
+          "size": "Medium"
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Spotify",
+              "url": "https://open.spotify.com/playlist/0UNug7QG2IvtHdGJHeRdko?si=4dd8bb665cf04ad7"
+            },
+            {
+              "label": "Apple Music",
+              "url": "https://music.apple.com/us/playlist/chronicles-of-judah/pl.u-6mo4ayvF4KEYgK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Guide to the Books of Chronicles",
+      "eyebrow": "",
+      "anchor": "bibleproject",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/judah/Artboard-1-3x.png",
+              "title": "BibleProject Guide to Chronicles",
+              "text": "Key information and helpful resources from BibleProject.",
+              "url": "https://bibleproject.com/guides/books-of-chronicles/",
+              "label": "Learn More"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Books",
+      "eyebrow": "",
+      "anchor": "books",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/judah/81NrRi5mEqL._SL1500_.jpg",
+              "title": "The IVP Bible Background Commentary",
+              "text": "",
+              "url": "https://a.co/d/0bPSlIs",
+              "label": ""
+            },
+            {
+              "image": "/images/judah/81t0ALw-gbL._SL1500_.jpg",
+              "title": "NIV Life Application Commentary",
+              "text": "",
+              "url": "https://a.co/d/6xeNuJw",
+              "label": ""
+            },
+            {
+              "image": "/images/judah/71woHQvB6ZL._SL1500_.jpg",
+              "title": "1–2 Chronicles (11) (The Story of God Bible Commentary)",
+              "text": "",
+              "url": "https://a.co/d/azrRTHT",
+              "label": ""
+            },
+            {
+              "image": "/images/judah/5171o5G98UL.jpg",
+              "title": "Be Distinct (2 Kings & 2 Chronicles): Standing Firmly Against the World's Tides",
+              "text": "",
+              "url": "https://a.co/d/2jlhiWs",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

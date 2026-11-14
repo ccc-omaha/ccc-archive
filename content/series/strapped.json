@@ -1,0 +1,246 @@
+{
+  "title": "Strapped",
+  "slug": "strapped",
+  "dates": "2022",
+  "sort_date": "2022-06-01",
+  "scripture": "",
+  "card_image": "/images/cards/06-Strapped-App_1024x1024.jpg",
+  "summary": "A series where we talk about money. Free classes for every stage of life, ways to give, recommended books and videos, and financial group lessons.",
+  "seo_description": "A series where we talk about money. Free classes for every stage of life, ways to give, recommended books and videos, and financial group lessons.",
+  "hero": {
+    "background": "/images/strapped/Strapped-BG_SIMPLE.jpg",
+    "background_color": "Navy",
+    "title_image": "/images/strapped/strapped.png",
+    "image": "",
+    "show_title": false,
+    "tagline": "",
+    "buttons": []
+  },
+  "sections": [
+    {
+      "heading": "Free Gifts to You",
+      "eyebrow": "",
+      "anchor": "free-gifts",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/strapped/in.png",
+              "title": "Debt-free College Seminar",
+              "text": "",
+              "url": "https://youtu.be/Xs6x0KJnjXE",
+              "label": "Watch"
+            },
+            {
+              "image": "/images/strapped/out.png",
+              "title": "Financial Peace University (Ramsey+)",
+              "text": "",
+              "url": "https://www.ramseysolutions.com/ramseyplus/hosts/cccomaha?pc=23561731",
+              "label": "Sign Up"
+            },
+            {
+              "image": "/images/strapped/Future-_Building.png",
+              "title": "Legacy Journey Class",
+              "text": "",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/1332832",
+              "label": "Sign Up"
+            },
+            {
+              "image": "/images/strapped/Legacy-_Leaving.png",
+              "title": "Orchard Alliance",
+              "text": "",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/1331401",
+              "label": "Sign Up"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Give",
+      "eyebrow": "",
+      "anchor": "give",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>We serve a generous God. Everything we have belongs to him, and we want to be good stewards of what we have been given. Giving is an act of worship that expresses our gratitude, faith, and love for others. When we do this, we put God first in our lives.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "/images/strapped/image-asset.png",
+              "title": "Give Online",
+              "text": "Give a one-time gift or set up recurring giving.",
+              "url": "https://www.cccomaha.org/give",
+              "label": "Give"
+            },
+            {
+              "image": "/images/strapped/plant.png",
+              "title": "Planned Giving",
+              "text": "Planned giving through non-cash gifts can help you accomplish your giving goals, increase the impact of your gift, and may reduce taxes. Wise counsel can help you determine the best giving option for you today and the future.",
+              "url": "https://www.inspire-giving.com/christ-community-church-planned-giving",
+              "label": "Learn More"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Books",
+      "eyebrow": "",
+      "anchor": "books",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/strapped/51-L4aSe-gL._SX387_BO1-204-203-200_.jpg",
+              "title": "The Total Money Makeover",
+              "text": "by Dave Ramsey",
+              "url": "https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277?ref_=ast_slp_dp",
+              "label": ""
+            },
+            {
+              "image": "/images/strapped/51wOOMQ-F3L._SX312_BO1-204-203-200_.jpg",
+              "title": "Rich Dad Poor Dad",
+              "text": "by Robert T. Kiyosaki",
+              "url": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194",
+              "label": ""
+            },
+            {
+              "image": "/images/strapped/41VtCQZtd-L._SY344_BO1-204-203-200_.jpg",
+              "title": "The More of Less",
+              "text": "by Joshua Becker",
+              "url": "https://www.amazon.com/More-Less-Finding-Under-Everything/dp/1601427972/ref=sr_1_1?dchild=1&keywords=Josh+Becker+–+The+more+of+less&qid=1611692572&sr=8-1",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Videos",
+      "eyebrow": "",
+      "anchor": "videos",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/strapped/image-asset.jpeg",
+              "title": "Becoming Minimalist with Joshua Becker",
+              "text": "unCOMFORTABLE 044",
+              "url": "https://www.youtube.com/watch?v=xk6DwKvsnxs",
+              "label": ""
+            },
+            {
+              "image": "/images/strapped/image-asset-2.jpeg",
+              "title": "How to Be Rich / 10-10-80 Principle",
+              "text": "",
+              "url": "https://www.youtube.com/watch?v=SlknU3ZOD1U",
+              "label": ""
+            },
+            {
+              "image": "/images/strapped/image-asset-3.jpeg",
+              "title": "Beyond the Message: Minimalism and the Bible",
+              "text": "",
+              "url": "https://www.youtube.com/watch?v=HhHYO748PN4",
+              "label": ""
+            },
+            {
+              "image": "/images/strapped/image-asset-4.jpeg",
+              "title": "How to Be Rich / Car & Student Loans",
+              "text": "",
+              "url": "https://www.youtube.com/watch?v=m7YRRJNb67k",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "RightNow Media",
+      "eyebrow": "",
+      "anchor": "rightnow-media",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>RightNow Media gives you access to a huge library of quality Christian video content for kids, students, and adults on your phone, tablet, computer, or TV, all for free.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Tiles",
+          "items": [
+            {
+              "image": "/images/strapped/466829.jpg",
+              "title": "RightNow Media series",
+              "text": "",
+              "url": "https://www.rightnowmedia.org/Content/Series/466829",
+              "label": ""
+            },
+            {
+              "image": "/images/strapped/379853.jpg",
+              "title": "RightNow Media series",
+              "text": "",
+              "url": "https://www.rightnowmedia.org/Content/Series/379853",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Sign Me Up",
+              "url": "https://accounts.rightnowmedia.org/Account/Invite/CCCOmaha?returnUrl=https%3A%2F%2Fwww.rightnowmedia.org%2FAccount%2FMedia%2FInviteReturn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Financial Group Lessons",
+      "eyebrow": "",
+      "anchor": "discussion-guides",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Following Jesus leads to financial freedom. Three group lessons from CCC’s <em>Financially Free</em> study.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Materialism",
+              "url": "/s/Financial-Lesson-Materialism-2fdy.pdf"
+            },
+            {
+              "label": "Giving",
+              "url": "/s/Financial-Lesson-Giving-48a8.pdf"
+            },
+            {
+              "label": "Debt & Contentment",
+              "url": "/s/Financial-Lesson-Debt.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

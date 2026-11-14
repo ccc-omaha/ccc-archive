@@ -1,0 +1,24 @@
+{
+  "site_title": "Series Resources",
+  "heading": "Series resources",
+  "intro": "Reading plans, discussion guides, booklets, and recommended books and videos from past message series at Christ Community Church.",
+  "search_placeholder": "Search series, books, or topics",
+  "main_site_label": "cccomaha.org",
+  "main_site_url": "https://www.cccomaha.org",
+  "footer_text": "Christ Community Church exists to make disciples for Kingdom impact.",
+  "address": "404 S 108th Ave, Omaha, NE 68154",
+  "service_times": "Sundays at 9 and 10:45 AM",
+  "phone": "402.330.3360",
+  "footer_links": [
+    { "label": "Plan a visit", "url": "https://www.cccomaha.org/visit" },
+    { "label": "Watch messages", "url": "https://www.cccomaha.org/watch" },
+    { "label": "Join a group", "url": "https://www.cccomaha.org/groups" },
+    { "label": "Give", "url": "https://www.cccomaha.org/give" }
+  ],
+  "social": [
+    { "label": "YouTube", "url": "https://www.youtube.com/cccomaha" },
+    { "label": "Instagram", "url": "https://instagram.com/cccomaha" },
+    { "label": "Facebook", "url": "https://facebook.com/cccomaha" },
+    { "label": "TikTok", "url": "https://www.tiktok.com/@cccomaha" }
+  ]
+}

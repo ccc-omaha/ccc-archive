@@ -1,0 +1,301 @@
+{
+  "title": "Justice",
+  "slug": "justice",
+  "dates": "2020",
+  "sort_date": "2020-12-01",
+  "scripture": "",
+  "card_image": "/images/cards/02-Justice-App_1024x1024.jpg",
+  "summary": "Resources on biblical justice and racial equity: books, videos, articles, and films to further our collective awareness and education.",
+  "seo_description": "Resources on biblical justice and racial equity: books, videos, articles, and films to further our collective awareness and education.",
+  "hero": {
+    "background": "/images/justice/Justice-Web-BG_2500x2500.jpg",
+    "background_color": "Navy",
+    "title_image": "",
+    "image": "",
+    "show_title": true,
+    "tagline": "We are committed to biblical justice and racial equity in our community and in our nation. Our purpose in providing these resources is to further our collective awareness and education. If you have questions, please email our Missions leadership at [missions@cccomaha.org](mailto:missions@cccomaha.org).",
+    "buttons": []
+  },
+  "sections": [
+    {
+      "heading": "Books",
+      "eyebrow": "",
+      "anchor": "books",
+      "intro": "Links to Amazon.",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/justice/41YJ9zA1kTL._SX322_BO1-204-203-200_.jpg",
+              "title": "Good News About Injustice",
+              "text": "by Gary Haugen",
+              "url": "https://www.amazon.com/Good-About-Injustice-Updated-Anniversary/dp/0830837108/ref=sr_1_2?dchild=1&keywords=Good+News+About+Injustice+by+Gary+Haugen&qid=1608230430&sr=8-2",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/51SI0NfJs6L._SX347_BO1-204-203-200_.jpg",
+              "title": "Generous Justice",
+              "text": "by Tim Keller",
+              "url": "https://www.amazon.com/Generous-Justice-Gods-Grace-Makes/dp/1594486077/ref=sr_1_1?dchild=1&keywords=Generous+Justice+by+Tim+Keller&qid=1608230477&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/just-mercy.jpg",
+              "title": "Just Mercy",
+              "text": "by Bryan Stevenson",
+              "url": "https://www.amazon.com/Just-Mercy-Story-Justice-Redemption/dp/081298496X/ref=sr_1_1?crid=1JKAJ74PNOWRG&dchild=1&keywords=just+mercy+bryan+stevenson&qid=1591362080&sprefix=just+mercy%2Caps%2C177&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/516zoONO6QL._SX322_BO1-204-203-200_.jpg",
+              "title": "Letters to a Birmingham Jail",
+              "text": "by Bryan Loritts",
+              "url": "https://www.amazon.com/dp/0802411967/ref=cm_sw_em_r_mt_dp_NU62FbSXTN9VC?_encoding=UTF8&psc=1",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/51PXIQl5J7L._SX321_BO1-204-203-200_.jpg",
+              "title": "Be the Bridge",
+              "text": "by Latasha Morrison",
+              "url": "https://www.amazon.com/Be-Bridge-Pursuing-Racial-Reconciliation/dp/0525652884/ref=sr_1_2?dchild=1&keywords=Be+the+Bridge+by+Latasha+Morrison&qid=1608230634&sr=8-2",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/51IU1s1G93L._SX326_BO1-204-203-200_.jpg",
+              "title": "Insider Outsider",
+              "text": "by Bryan Loritts",
+              "url": "https://www.amazon.com/Insider-Outsider-Journey-Stranger-Evangelicalism/dp/0310345030",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/Screen-Shot-2020-06-05-at-7.53.09-AM.png",
+              "title": "Black & White",
+              "text": "by Myron Pierce (ebook only)",
+              "url": "https://www.amazon.com/Black-White-Unity-Reconciliation-America-ebook/dp/B088NKKBQ9/ref=sr_1_3?dchild=1&keywords=myron+pierce&qid=1591361980&sr=8-3",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/41k7Vkw42qL._SX331_BO1-204-203-200_.jpg",
+              "title": "Church in Crisis",
+              "text": "by Josh Dotzler",
+              "url": "https://www.amazon.com/Church-Crisis-Lessons-COVID-19/dp/B088T4XTF1/ref=sr_1_1?dchild=1&keywords=Church+in+Crisis+by+Josh+Dotzler&qid=1608231262&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/51i1ePKouAL._SX325_BO1-204-203-200_.jpg",
+              "title": "A Framework for Understanding Poverty",
+              "text": "by Ruby Payne",
+              "url": "https://www.amazon.com/Framework-Understanding-Poverty-4th/dp/1929229488/ref=sr_1_2?dchild=1&keywords=A+Framework+for+Understanding+Poverty+by+Ruby+Payne&qid=1608231289&sr=8-2",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/51wD16Z2iuL._SX355_BO1-204-203-200_.jpg",
+              "title": "Right Color Wrong Culture",
+              "text": "by Bryan Loritts",
+              "url": "https://www.amazon.com/Right-Color-Wrong-Culture-Organization/dp/0802411738",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/41d0rL8e1YL._SX331_BO1-204-203-200_.jpg",
+              "title": "White Awake",
+              "text": "by Daniel Hill",
+              "url": "https://www.amazon.com/White-Awake-Honest-Look-Means/dp/0830843930/ref=sr_1_1?dchild=1&keywords=White+Awake+by+Daniel+Hill&qid=1608231496&sr=8-1",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Videos",
+      "eyebrow": "",
+      "anchor": "videos",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/justice/image-asset.jpeg",
+              "title": "Grace, Justice, & Mercy: An Evening with Bryan Stevenson and Rev. Tim Keller",
+              "text": "",
+              "url": "https://vimeo.com/168964644",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/image-asset-2.jpeg",
+              "title": "This Human Race // Andy Stanley",
+              "text": "",
+              "url": "https://www.youtube.com/watch?v=7Osxas0kMDk",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/image-asset-3.jpeg",
+              "title": "Justice",
+              "text": "by the Bible Project",
+              "url": "https://www.youtube.com/watch?v=A14THPoc4-4",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/image-asset-4.jpeg",
+              "title": "Race and the Christian: Q&A with Tim Keller, John Piper, Anthony Bradley",
+              "text": "",
+              "url": "https://www.youtube.com/watch?v=zohRZjxwsss",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/image-asset-5.jpeg",
+              "title": "Race in America",
+              "text": "by Phil Vischer",
+              "url": "https://www.youtube.com/watch?v=AGUwcs9qJXY",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/image-asset-6.jpeg",
+              "title": "Race in America",
+              "text": "Part 2 by Phil Vischer",
+              "url": "https://www.youtube.com/watch?v=u-yun74BJEc",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/image-asset-7.jpeg",
+              "title": "A Conversation about Race, Justice and the Gospel",
+              "text": "Interview",
+              "url": "https://www.youtube.com/watch?v=UCTemNbDUbU",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Other Items to Read",
+      "eyebrow": "",
+      "anchor": "reading",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Tiles",
+          "items": [
+            {
+              "image": "/images/justice/Screen-Shot-2020-12-17-at-1.31.13-PM.png",
+              "title": "An open letter on Racism from our denomination, the Christian & Missionary Alliance",
+              "text": "",
+              "url": "https://www.salemalliance.org/wp-content/uploads/2020/07/OPEN-LETTER-ON-RACISM.pdf",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/Screen-Shot-2020-12-17-at-1.31.47-PM.png",
+              "title": "The Bible and Race",
+              "text": "by Timothy Keller",
+              "url": "https://quarterly.gospelinlife.com/the-bible-and-race/",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/Screen-Shot-2020-12-17-at-1.32.04-PM.png",
+              "title": "A Biblical Critique of Secular Justice and Critical Theory",
+              "text": "by Timothy Keller",
+              "url": "https://quarterly.gospelinlife.com/a-biblical-critique-of-secular-justice-and-critical-theory/",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/Screen-Shot-2020-12-17-at-1.32.21-PM.png",
+              "title": "Justice in the Bible",
+              "text": "by Timothy Keller",
+              "url": "https://quarterly.gospelinlife.com/justice-in-the-bible/",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Movies",
+      "eyebrow": "",
+      "anchor": "movies",
+      "intro": "Links to Amazon and Netflix.",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/justice/13th_-film-.png",
+              "title": "13th",
+              "text": "",
+              "url": "https://www.netflix.com/title/80091741",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/815e-Ol07RL._AC_UY436_QL65_.jpg",
+              "title": "Just Mercy",
+              "text": "",
+              "url": "https://www.amazon.com/Just-Mercy-Michael-B-Jordan/dp/B082YKN1M1/ref=sr_1_1?dchild=1&keywords=just+mercy+dvd&qid=1591536023&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/71K7SPb0WFL._AC_UY436_QL65_.jpg",
+              "title": "The Help",
+              "text": "",
+              "url": "https://www.amazon.com/Help-Emma-Stone/dp/B00942Y6WI/ref=sr_1_2?dchild=1&keywords=the+help+dvd&qid=1591536109&sr=8-2",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/71L5b2fjSRL._AC_UY436_QL65_.jpg",
+              "title": "Glory",
+              "text": "",
+              "url": "https://www.amazon.com/Glory-Matthew-Broderick/dp/B000Q7LUGA/ref=sr_1_1?dchild=1&keywords=glory+dvd&qid=1591536134&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/81-flHvuj9L._AC_UY436_QL65_.jpg",
+              "title": "The Butler",
+              "text": "",
+              "url": "https://www.amazon.com/Lee-Daniels-Butler-Forest-Whitaker/dp/B00H6PG6J6/ref=sr_1_3?dchild=1&keywords=the+butler+dvd&qid=1591543460&sr=8-3",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/Screen-Shot-2020-06-07-at-10.28.02-AM.png",
+              "title": "Amistad",
+              "text": "",
+              "url": "https://www.amazon.com/Amistad-Morgan-Freeman/dp/B002IR9ZSG/ref=sr_1_3?dchild=1&keywords=amistad+dvd&qid=1591543535&sr=8-3",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/81TqkXW2pPL._AC_UY436_QL65_.jpg",
+              "title": "Malcolm X",
+              "text": "",
+              "url": "https://www.amazon.com/Malcolm-X-Denzel-Washington/dp/B0097JUG86/ref=sr_1_3?dchild=1&keywords=malcom+x+dvd&qid=1591536196&sr=8-3",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/71bPzC4ShrL._AC_UY436_QL65_.jpg",
+              "title": "Selma",
+              "text": "",
+              "url": "https://www.amazon.com/Selma-David-Oyelowo/dp/B00S0X4HK8/ref=sr_1_1?dchild=1&keywords=selma+dvd&qid=1591536218&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/81KSFK1VGCL._AC_UY436_QL65_.jpg",
+              "title": "Hidden Figures",
+              "text": "",
+              "url": "https://www.amazon.com/Hidden-Figures-Taraji-P-Henson/dp/B01MS4V81A/ref=sr_1_2?dchild=1&keywords=hidden+figures+dvd&qid=1591536235&sr=8-2",
+              "label": ""
+            },
+            {
+              "image": "/images/justice/91NUqcP9IoL._AC_UY436_QL65_.jpg",
+              "title": "Remember The Titans",
+              "text": "",
+              "url": "https://www.amazon.com/Remember-Titans-Denzel-Washington/dp/B003QSNFCS/ref=sr_1_1?dchild=1&keywords=remember+the+titans+dvd&qid=1591536253&sr=8-1",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

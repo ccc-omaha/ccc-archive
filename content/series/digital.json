@@ -1,0 +1,237 @@
+{
+  "title": "Your Soul and the Digital Landscape",
+  "slug": "digital",
+  "dates": "November 27–December 18, 2022",
+  "sort_date": "2022-11-27",
+  "scripture": "",
+  "card_image": "/images/cards/08-DigitalLandscape-App_1024x1024.jpg",
+  "summary": "How technology shapes our souls and our families. Resources for parents, studies, podcasts, books, phone settings, and a four-week group guide.",
+  "seo_description": "How technology shapes our souls and our families. Resources for parents, studies, podcasts, books, phone settings, and a four-week group guide.",
+  "hero": {
+    "background": "/images/digital/digital-bg.jpg",
+    "background_color": "Purple",
+    "title_image": "/images/digital/DigitalLandscape-EmailGraphic_1920x1080.png",
+    "image": "",
+    "show_title": false,
+    "tagline": "",
+    "buttons": []
+  },
+  "sections": [
+    {
+      "heading": "Series Trailer",
+      "eyebrow": "",
+      "anchor": "trailer",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Video",
+          "url": "/video/digital-landscape.mp4",
+          "caption": "",
+          "poster": "/video/digital-landscape.jpg"
+        }
+      ]
+    },
+    {
+      "heading": "Axis",
+      "eyebrow": "",
+      "anchor": "axis",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Axis membership delivers trustworthy, gospel-centered resources on the topics that make parenting such a challenge in this smartphone, social-media world.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Learn More",
+              "url": "https://axis.org"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "RightNow Media Studies",
+      "eyebrow": "",
+      "anchor": "rightnow-media",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>RightNow Media provides access to a huge library of quality Christian video content for kids, students, and adults on your smartphone, iPad, computer, or TV. CCC has made this resource available free to all CCC families.</p>",
+          "collapsed_title": ""
+        },
+        {
+          "kind": "Tiles",
+          "items": [
+            {
+              "image": "/images/digital/516735.jpg",
+              "title": "The Tech-Wise Family",
+              "text": "Andy Crouch",
+              "url": "https://app.rightnowmedia.org/en/content/details/516727",
+              "label": ""
+            },
+            {
+              "image": "/images/digital/434087.jpg",
+              "title": "Redeem the Screen",
+              "text": "Kyle Idleman",
+              "url": "https://app.rightnowmedia.org/en/content/details/434086",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Sign Up Free",
+              "url": "https://app.rightnowmedia.org/en/user/CCCOmaha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "unCOMFORTABLE Podcast",
+      "eyebrow": "",
+      "anchor": "podcast",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/digital/image-asset.jpeg",
+              "title": "Screen Time with Dr. Marie Belin",
+              "text": "unCOMFORTABLE 099",
+              "url": "https://www.youtube.com/watch?v=VrBi-NtFze4",
+              "label": ""
+            },
+            {
+              "image": "/images/digital/image-asset-2.jpeg",
+              "title": "Analog Christian with Jay Kim",
+              "text": "unCOMFORTABLE Podcast 153",
+              "url": "https://www.youtube.com/watch?v=F1XE3Enp-7w",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Books",
+      "eyebrow": "",
+      "anchor": "books",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/digital/41tdltaXJZL._SX461_BO1-204-203-200_.jpg",
+              "title": "The Tech-Wise Family",
+              "text": "by Andy Crouch",
+              "url": "https://www.amazon.com/Tech-Wise-Family-Everyday-Putting-Technology/dp/0801018668/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1669129112&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/digital/41MP8WopFFL._SX342_SY445_QL70_ML2_.jpg",
+              "title": "The Life We're Looking For",
+              "text": "by Andy Crouch",
+              "url": "https://www.amazon.com/Life-Were-Looking-Relationship-Technological-ebook/dp/B099W5SXPK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1669129537&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/digital/51dGkllzp8L._SX331_BO1-204-203-200_.jpg",
+              "title": "Analog Christian",
+              "text": "by Jay Y. Kim",
+              "url": "https://www.amazon.com/Analog-Christian-Cultivating-Contentment-Resilience/dp/1514003163/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1669129688&sr=8-1",
+              "label": ""
+            },
+            {
+              "image": "/images/digital/41dyWgX1z4L._SX323_BO1-204-203-200_.jpg",
+              "title": "12 Ways Your Phone Is Changing You",
+              "text": "by Tony Reinke",
+              "url": "https://www.amazon.com/Ways-Your-Phone-Changing-You/dp/1433552434/ref=sr_1_1?crid=2AC2HIS6GKGHJ&keywords=12+Ways+your+phone+is+changing+you&qid=1669130013&sprefix=12+ways+your+phone+is+changing+you%2Caps%2C139&sr=8-1",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Digital Parenting Seminars",
+      "eyebrow": "",
+      "anchor": "seminars",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Text",
+          "text": "<p>Parenting has been consistently challenging, but in the ever-changing digital landscape, it is easy to be overwhelmed and not know where to begin. This seminar will discuss the challenges the next generation is facing and provide tools to help equip you to fight for your kids.</p><p><strong>December 4 | 9 &amp; 10:45 AM</strong></p><p><strong>January 11 | 6:30 PM (during</strong><a href=\"https://www.cccomaha.org/kids\"><strong>Deeper</strong></a><strong>)</strong></p><p><strong>January 8 | 6:30 PM (during</strong><a href=\"https://www.cccomaha.org/middle-school\"><strong>Youth</strong></a><strong>)</strong></p>",
+          "collapsed_title": ""
+        }
+      ]
+    },
+    {
+      "heading": "Discussion Guides",
+      "eyebrow": "",
+      "anchor": "discussion-guides",
+      "intro": "",
+      "style": "Navy",
+      "blocks": [
+        {
+          "kind": "Downloads",
+          "items": [
+            {
+              "label": "Four-Week Digital Landscape Discussion Guide",
+              "url": "/s/Digital-Landscape-4-week-study-guide.pdf"
+            },
+            {
+              "label": "Four-Week Advent Discussion Guide",
+              "url": "/s/Advent-4-week-study-guide.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Additional Resources",
+      "eyebrow": "",
+      "anchor": "additional-resources",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "Android Focus Mode",
+              "url": "https://blog.google/products/android/android-focus-mode/"
+            },
+            {
+              "label": "iPhone Focus Mode",
+              "url": "https://support.apple.com/en-us/HT212608"
+            },
+            {
+              "label": "YouVersion Bible App Reading Plans",
+              "url": "https://help.youversion.com/l/en/article/mm9dbdfgr5-plans"
+            },
+            {
+              "label": "The Social Dilemma Film",
+              "url": "https://www.thesocialdilemma.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

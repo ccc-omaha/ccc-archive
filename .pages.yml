@@ -1,0 +1,296 @@
+# Pages CMS config for cccarchive.com (CCC Series Resources)
+#
+# Formatting in short text fields: **bold**, *italic*, [link text](https://...)
+# Rich text fields use the editor toolbar (headings, lists, bold, links).
+# Long lines never end on a single orphan word; the build handles that.
+#
+# To add a new series: open "2. Series pages", click Add an entry, fill in the
+# top fields, then add sections. Each section holds blocks (text, buttons,
+# downloads, books, videos, and so on). The landing page updates automatically.
+
+settings:
+  commit:
+    identity: user
+
+media:
+  - name: images
+    label: Images
+    input: images/uploads
+    output: /images/uploads
+    extensions: [jpg, jpeg, png, webp, gif, svg]
+    rename: safe
+  - name: files
+    label: Files (PDFs)
+    input: s
+    output: /s
+    extensions: [pdf, jpg, png, zip, docx, pptx]
+    rename: safe
+
+content:
+  - name: site
+    label: "1. Landing page"
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: site_title
+        label: Site name
+        type: string
+        description: Shown next to the CCC logo in the top bar on every page, and in browser tab titles.
+      - name: heading
+        label: Big heading
+        type: string
+        description: The large heading at the top of the landing page.
+      - name: intro
+        label: Intro paragraph
+        type: text
+        description: The paragraph under the big heading on the landing page. Also used as the description in Google results.
+      - name: search_placeholder
+        label: Search box hint
+        type: string
+        description: The gray hint text inside the search box on the landing page.
+      - name: main_site_label
+        label: Main site button text
+        type: string
+        description: The outlined button in the top right corner of every page.
+      - name: main_site_url
+        label: Main site button link
+        type: string
+        description: Where the top right button goes.
+      - name: footer_text
+        label: Footer statement
+        type: text
+        description: The sentence under the CCC logo in the navy footer.
+      - name: service_times
+        label: Service times
+        type: string
+        description: First line of the second footer column.
+      - name: address
+        label: Address
+        type: string
+        description: Second line of the second footer column.
+      - name: phone
+        label: Phone
+        type: string
+        description: Third line of the second footer column. Tapping it calls the number on phones.
+      - name: footer_links
+        label: Footer links
+        type: object
+        list: true
+        description: The third footer column.
+        fields:
+          - { name: label, label: Link text, type: string, description: The words shown in the footer. }
+          - { name: url, label: Link, type: string, description: Where the link goes. }
+      - name: social
+        label: Social links
+        type: object
+        list: true
+        description: The fourth footer column. These open in a new tab.
+        fields:
+          - { name: label, label: Platform name, type: string, description: The words shown in the footer. }
+          - { name: url, label: Link, type: string, description: Full link to the CCC account. }
+
+  - name: series
+    label: "2. Series pages"
+    type: collection
+    path: content/series
+    format: json
+    filename: "{fields.slug}.json"
+    view:
+      fields: [title, dates, sort_date]
+      primary: title
+      sort: [sort_date, title]
+      default:
+        sort: sort_date
+        order: desc
+    fields:
+      - name: title
+        label: Series title
+        type: string
+        required: true
+        description: Shown under the series art on the landing page, in the gray bar under the page header, and in the browser tab.
+      - name: slug
+        label: Web address
+        type: string
+        required: true
+        pattern: ^[a-z0-9-]+$
+        description: "The part after cccarchive.com/ (lowercase letters, numbers, and dashes only). Example: isaiah makes cccarchive.com/isaiah. Don't change this after a series is live, or old links and QR codes will break."
+      - name: dates
+        label: Dates as shown
+        type: string
+        description: "Shown under the series title on the landing page and in the gray bar. Spell out months, for example: February 16–May 25, 2025"
+      - name: sort_date
+        label: Start date (for ordering)
+        type: date
+        description: Not shown on the page. Puts the series in the right year on the landing page; newest series appear first.
+      - name: scripture
+        label: Scripture
+        type: string
+        description: "Shown in the gray bar under the header, after the dates. Example: Isaiah 1–66. Leave blank if none."
+      - name: card_image
+        label: Square series art
+        type: image
+        options: { media: images }
+        description: The square image on the landing page and in the Earlier/Later series links at the bottom of each page. Use the 1024x1024 app graphic.
+      - name: summary
+        label: Summary
+        type: text
+        description: One or two sentences. Shown under the series title on the landing page (first three lines) and in large type at the top of the series page.
+      - name: seo_description
+        label: Google description
+        type: text
+        description: Not shown on the page. The description Google and link previews show. If blank, the summary is used.
+      - name: hidden
+        label: Hide this series
+        type: boolean
+        description: Not shown on the page. Turn on to take the series off the site without deleting it.
+      - name: hero
+        label: Top of page
+        type: object
+        description: The large colored area at the top of the series page.
+        fields:
+          - name: background
+            label: Background image
+            type: image
+            options: { media: images }
+            description: Fills the whole top area behind the title art. Optional.
+          - name: background_color
+            label: Background color
+            type: select
+            options: { values: [Navy, Blue, Purple, Aqua, Cream, Orange, Magenta] }
+            description: Used when there is no background image, and behind the image while it loads.
+          - name: title_image
+            label: Title art (transparent)
+            type: image
+            options: { media: images }
+            description: The series logo or wordmark centered in the top area. Use a transparent PNG.
+          - name: image
+            label: Wide series graphic
+            type: image
+            options: { media: images }
+            description: Use instead of title art when you only have a full graphic (like a 1920x1080 slide). Shown centered with rounded corners.
+          - name: show_title
+            label: Show title as text
+            type: boolean
+            description: Shows the series title in large type in the top area. Turn on when there is no title art.
+          - name: tagline
+            label: Tagline
+            type: text
+            description: Optional paragraph under the title art in the top area.
+          - name: buttons
+            label: Buttons
+            type: object
+            list: true
+            description: Optional buttons under the tagline. The first is solid blue; the rest are outlined. Link to a section on the page with #section-link (see each section's Section link).
+            fields:
+              - { name: label, label: Button text, type: string, description: The words on the button. }
+              - { name: url, label: Button link, type: string, description: "A full link, a file like /s/guide.pdf, or #discussion-guides to jump down the page." }
+      - name: sections
+        label: Sections
+        type: object
+        list: true
+        description: The page content, top to bottom. Each section also appears in the "On this page" list on the left.
+        fields:
+          - name: heading
+            label: Section heading
+            type: string
+            description: The large heading at the top of the section, and its name in the "On this page" list.
+          - name: eyebrow
+            label: Small line above heading
+            type: string
+            description: Optional small blue line above the section heading.
+          - name: anchor
+            label: Section link
+            type: string
+            description: "Not shown. Lets buttons jump here with #this-name. Use discussion-guides for discussion guides so the landing page shows Discussion guides for this series."
+          - name: intro
+            label: Section intro
+            type: text
+            description: Optional short gray line under the section heading.
+          - name: style
+            label: Section background
+            type: select
+            options: { values: [Light, Cream, Navy] }
+            description: Light is white. Cream and Navy put the section in a colored panel. Alternate them so the page has rhythm.
+          - name: blocks
+            label: Blocks
+            type: object
+            list: true
+            description: The content inside this section, top to bottom. Pick a Kind for each block, then fill in only the fields that kind uses.
+            fields:
+              - name: kind
+                label: Kind
+                type: select
+                options: { values: [Text, Buttons, Downloads, Image, Video, Books, Videos, Tiles, Cards, Embed, Code] }
+                description: "Text: paragraphs and lists. Buttons: pill buttons. Downloads: a grid of PDF or file links. Image: one picture. Video: one embedded video. Books: book covers. Videos: video thumbnails that play in a pop-up. Tiles: square images that link out (podcasts, articles). Cards: image, title, text, and button. Embed: Spotify, Apple Music, Issuu, or a YouTube playlist. Code: pasted embed code."
+              - name: text
+                label: Text
+                type: rich-text
+                description: Used by Text blocks. The paragraphs, lists, and small headings shown in this block.
+              - name: collapsed_title
+                label: Fold-out title
+                type: string
+                description: Text blocks only. If filled in, the text is hidden behind this clickable line (good for long reading guides). Leave blank to show the text normally.
+              - name: image
+                label: Image
+                type: image
+                options: { media: images }
+                description: Image blocks only. The picture shown.
+              - name: url
+                label: Link
+                type: string
+                description: "Image blocks: where clicking the picture goes (optional). Video blocks: the YouTube or Vimeo link, pasted straight from the browser."
+              - name: caption
+                label: Caption
+                type: string
+                description: Image and Video blocks. Small gray line under the picture or video.
+              - name: alt
+                label: Image description
+                type: string
+                description: Image blocks. Not shown; read aloud by screen readers. Describe what the picture shows.
+              - name: size
+                label: Image size
+                type: select
+                options: { values: [Wide, Medium, Small] }
+                description: Image blocks. Wide fills the column; Medium and Small are narrower.
+              - name: poster
+                label: Video cover image
+                type: image
+                options: { media: images }
+                description: Video blocks with an uploaded video file only. The still image shown before play.
+              - name: code
+                label: Embed code
+                type: code
+                options: { language: html }
+                description: Code blocks only. Pasted embed code, such as a Subsplash message player.
+              - name: items
+                label: Items
+                type: object
+                list: true
+                description: "Used by Buttons, Downloads, Books, Videos, Tiles, Cards, and Embed blocks. One entry per button, file, book, video, tile, card, or embed."
+                fields:
+                  - name: label
+                    label: Button or link text
+                    type: string
+                    description: "Buttons and Downloads: the words shown. Cards: the words on the card's button."
+                  - name: url
+                    label: Link
+                    type: string
+                    description: "Where it goes. Downloads: a file like /s/week-1.pdf (upload under Media > Files). Videos: the YouTube or Vimeo link. Embed: the embed link from Spotify, Apple Music, or Issuu."
+                  - name: image
+                    label: Image
+                    type: image
+                    options: { media: images }
+                    description: "Books: the cover. Tiles and Cards: the picture. Videos: optional; YouTube thumbnails load automatically."
+                  - name: title
+                    label: Title
+                    type: string
+                    description: Books, Videos, Tiles, and Cards. Bold line under the picture.
+                  - name: text
+                    label: Second line
+                    type: string
+                    description: "Books: the author (by Jane Smith). Videos and Tiles: source or speaker. Cards: a short description."
+                  - name: height
+                    label: Embed height
+                    type: number
+                    description: Embed blocks only. Height in pixels (450 for Spotify or Apple Music, 500 for Issuu). Use 0 for a widescreen video playlist.
