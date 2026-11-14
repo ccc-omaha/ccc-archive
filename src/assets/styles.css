@@ -30,6 +30,7 @@ a:hover { color: var(--navy); }
 h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.12; margin: 0 0 .5em; text-wrap: balance; letter-spacing: -.01em; }
 blockquote { text-wrap: balance; }
 p, li, summary { text-wrap: pretty; }
+[hidden] { display: none !important; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .skip { position: absolute; left: -999px; top: 8px; background: var(--orange); color: var(--navy); padding: 8px 14px; z-index: 50; font-weight: 700; }
 .skip:focus { left: 8px; }
