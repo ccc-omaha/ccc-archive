@@ -5,8 +5,8 @@
   "sort_date": "2022-08-14",
   "scripture": "Daniel 1–12",
   "card_image": "/images/cards/07-DanielPart1-App_1024x1024.jpg",
-  "summary": "Dreams and visions of the future: a series through the book of Daniel, with an overview video, reflection questions, and the two-part series book in digital and print-at-home formats.",
-  "seo_description": "Dreams and visions of the future: a series through the book of Daniel, with an overview video, reflection questions, and the two-part series book in digital and print-at-home formats.",
+  "summary": "Dreams and visions of the future: a series through the book of Daniel, with an overview video, reflection questions, and the two-part series book as printable PDFs.",
+  "seo_description": "Dreams and visions of the future: a series through the book of Daniel, with an overview video, reflection questions, and the two-part series book as printable PDFs.",
   "hero": {
     "background": "/images/daniel/bg.png",
     "background_color": "Aqua",
@@ -59,24 +59,6 @@
           "caption": "",
           "alt": "Daniel series books, Parts I and II",
           "size": "Medium"
-        },
-        {
-          "kind": "Text",
-          "text": "<h3>Digital version</h3>",
-          "collapsed_title": ""
-        },
-        {
-          "kind": "Buttons",
-          "items": [
-            {
-              "label": "Digital Book Part I",
-              "url": "https://issuu.com/cccomaha/docs/20220715-danielbooklet-book1_digital"
-            },
-            {
-              "label": "Digital Book Part II",
-              "url": "https://issuu.com/cccomaha/docs/20220715-danielbooklet-book2_digital"
-            }
-          ]
         },
         {
           "kind": "Text",

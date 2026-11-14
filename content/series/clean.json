@@ -5,8 +5,8 @@
   "sort_date": "2021-02-21",
   "scripture": "Leviticus",
   "card_image": "/images/cards/03-Clean-App_1024x1024.jpg",
-  "summary": "Finding Jesus in Leviticus: a 12-week series on how an unholy people can approach a holy God. Series booklets, messages, and a list of 76 things banned in Leviticus.",
-  "seo_description": "Finding Jesus in Leviticus: a 12-week series on how an unholy people can approach a holy God. Series booklets, messages, and a list of 76 things banned in Leviticus.",
+  "summary": "Finding Jesus in Leviticus: a 12-week series on how an unholy people can approach a holy God. The series booklet, messages, and a list of 76 things banned in Leviticus.",
+  "seo_description": "Finding Jesus in Leviticus: a 12-week series on how an unholy people can approach a holy God. The series booklet, messages, and a list of 76 things banned in Leviticus.",
   "hero": {
     "background": "",
     "background_color": "Navy",
@@ -71,40 +71,8 @@
         },
         {
           "kind": "Text",
-          "text": "<h3>Book 1: February 21–March 28, 2021</h3>",
+          "text": "<h3>Book 2: April 4–May 23, 2021</h3><p>The print-at-home version of the second booklet is below.</p>",
           "collapsed_title": ""
-        },
-        {
-          "kind": "Embed",
-          "items": [
-            {
-              "url": "https://e.issuu.com/embed.html?d=20210201-cleanbooklet_partone-digital&u=cccomaha",
-              "height": 500
-            }
-          ]
-        },
-        {
-          "kind": "Downloads",
-          "items": [
-            {
-              "label": "Book 1 Print-at-Home PDF",
-              "url": "https://www.dropbox.com/s/9b2lf2omzw3qrha/20210202-CleanBooklet_PartOne-PRINTATHOME.pdf?dl=1"
-            }
-          ]
-        },
-        {
-          "kind": "Text",
-          "text": "<h3>Book 2: April 4–May 23, 2021</h3>",
-          "collapsed_title": ""
-        },
-        {
-          "kind": "Embed",
-          "items": [
-            {
-              "url": "https://e.issuu.com/embed.html?d=20210315-cleanbooklet_parttwo-digital&u=cccomaha",
-              "height": 500
-            }
-          ]
         },
         {
           "kind": "Downloads",

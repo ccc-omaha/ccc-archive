@@ -93,62 +93,6 @@
               "label": "Print-at-Home PDF"
             }
           ]
-        },
-        {
-          "kind": "Text",
-          "text": "<h3>Part One: Sooner Than You Think</h3>",
-          "collapsed_title": ""
-        },
-        {
-          "kind": "Embed",
-          "items": [
-            {
-              "url": "https://e.issuu.com/embed.html?d=20200727-revelationbooklet_partone-digital&u=cccomaha",
-              "height": 500
-            }
-          ]
-        },
-        {
-          "kind": "Text",
-          "text": "<h3>Part Two: Worthy Is the Lamb</h3>",
-          "collapsed_title": ""
-        },
-        {
-          "kind": "Embed",
-          "items": [
-            {
-              "url": "https://e.issuu.com/embed.html?d=20200818-revelationbooklet_parttwo-digital&u=cccomaha",
-              "height": 500
-            }
-          ]
-        },
-        {
-          "kind": "Text",
-          "text": "<h3>Part Three: Triumph of the King</h3>",
-          "collapsed_title": ""
-        },
-        {
-          "kind": "Embed",
-          "items": [
-            {
-              "url": "https://e.issuu.com/embed.html?d=20200921-revelationbooklet_partthree-digital&u=cccomaha",
-              "height": 500
-            }
-          ]
-        },
-        {
-          "kind": "Text",
-          "text": "<h3>Part Four: Heaven Comes to Earth</h3>",
-          "collapsed_title": ""
-        },
-        {
-          "kind": "Embed",
-          "items": [
-            {
-              "url": "https://e.issuu.com/embed.html?d=20201005-revelationbooklet_partfour-digital&u=cccomaha",
-              "height": 500
-            }
-          ]
         }
       ]
     },

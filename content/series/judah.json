@@ -76,10 +76,6 @@
           "kind": "Buttons",
           "items": [
             {
-              "label": "Download Timeline PDF",
-              "url": "https://ccc-documents.s3.us-west-1.amazonaws.com/KingsAndProphetsTimeline_PrintFromHome.pdf"
-            },
-            {
               "label": "Introduction PDF",
               "url": "/s/20240904-2ChroniclesIntro.pdf"
             }
