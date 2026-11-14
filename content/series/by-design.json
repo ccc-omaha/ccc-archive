@@ -1,0 +1,361 @@
+{
+  "title": "By Design",
+  "slug": "by-design",
+  "dates": "August 9–September 6, 2026",
+  "sort_date": "2026-08-09",
+  "scripture": "Genesis 1–3, Ephesians 5:21–33",
+  "card_image": "/images/cards/ByDesign-App_1024x1024.jpg",
+  "summary": "Men and women, as God intended. A five-week series on marriage, manhood, womanhood, sex, and the questions the church usually avoids, with every message, classes and groups, conversations, books, and counseling referrals.",
+  "seo_description": "By Design: a five-week series from Christ Community Church on what the Bible says about marriage, manhood, womanhood, sex, gender, and sexuality. Watch every message and find classes, books, and counseling.",
+  "hidden": false,
+  "hero": {
+    "background": "",
+    "background_color": "Cream",
+    "title_image": "",
+    "image": "/images/by-design/ByDesign-Web_1920x1080.jpg",
+    "show_title": false,
+    "tagline": "",
+    "buttons": [
+      {
+        "label": "Watch the Messages",
+        "url": "#messages"
+      },
+      {
+        "label": "Classes and Groups",
+        "url": "#classes-and-groups"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "About the Series",
+      "eyebrow": "",
+      "anchor": "about",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "collapsed_title": "",
+          "text": "<p>Something is off. Men are asking what they're for. Women are told their value is in everything but who God made them to be. And the culture keeps offering new answers that leave everyone more confused.</p><p>Scripture tells a better story. Men and women were made different, made equal, and made for each other, on purpose.</p><p>In this five-week series, Minister Mark Ashton opens up what the Bible actually says about marriage, manhood, womanhood, sex, and the questions the church usually avoids: gender identity, sexuality, and what it means that God made you the way he did.</p><p>No topic off the table. Every message grounded in Scripture. The final week answers questions sent in by the congregation.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "Messages",
+      "eyebrow": "",
+      "anchor": "messages",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/by-design/msg1-marriage-by-design.jpg",
+              "title": "Marriage By Design",
+              "text": "Minister Mark Ashton, August 9, 2026",
+              "url": "https://vimeo.com/1216803541",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/msg2-men-by-design.jpg",
+              "title": "Men By Design",
+              "text": "Minister Mark Ashton, August 16, 2026",
+              "url": "https://vimeo.com/1218692808",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/msg3-women-by-design.jpg",
+              "title": "Women By Design",
+              "text": "Chaka Heinze, August 23, 2026",
+              "url": "https://vimeo.com/1220610491",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/msg4-sex-by-design.jpg",
+              "title": "Sex By Design",
+              "text": "Minister Mark Ashton, August 30, 2026",
+              "url": "https://vimeo.com/1222495576",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/msg5-questions-by-design.jpg",
+              "title": "Questions By Design",
+              "text": "Minister Mark Ashton, September 6, 2026",
+              "url": "https://vimeo.com/1224420934",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "collapsed_title": "What each message covers",
+          "text": "<h3>Marriage By Design</h3><p>Minister Mark Ashton explores Ephesians 5:21–33 and God’s design for marriage, focusing on mutual submission, sacrificial love, serving your spouse, and staying on the same team.</p><h3>Men By Design</h3><p>Biblical manhood, the danger of passivity, and the responsibility men have to protect what God has entrusted to them. Where the first Adam failed, the Second Adam remained faithful.</p><h3>Women By Design</h3><p>Chaka Heinze explores God’s purposeful design for women through Genesis and the life of Jesus, from being created in the image of God to serving as <em>ezer kenegdo</em>.</p><h3>Sex By Design</h3><p>God’s design for sex, intimacy, and marriage from Genesis 2, 1 Corinthians 7, and Song of Songs, plus the real challenges couples face, including mismatched desire, pornography, shame, purity culture, and past trauma.</p><h3>Questions By Design</h3><p>Minister Mark answers real questions about marriage, desire, lust, pornography, homosexuality, gender identity, intersex people, asexuality, divorce, and remarriage.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "Classes and Groups",
+      "eyebrow": "",
+      "anchor": "classes-and-groups",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Cards",
+          "items": [
+            {
+              "image": "",
+              "title": "Marriage Still Matters",
+              "text": "An 8-week course that takes couples through *The Seven Principles for Making Marriage Work* by John Gottman.",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/3800832",
+              "label": "Register"
+            },
+            {
+              "image": "",
+              "title": "Marriage Matters",
+              "text": "A 6-week premarital course covering communication, conflict resolution, intimacy, and finances.",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/3800976",
+              "label": "Register"
+            },
+            {
+              "image": "",
+              "title": "Real Marriage",
+              "text": "A series of discussions on key areas that shape our marriages and families.",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/category/101264",
+              "label": "Register"
+            },
+            {
+              "image": "/images/by-design/28-day-marriage-cohort.jpg",
+              "title": "28 Days to a Stronger Marriage",
+              "text": "An app-only, 4-week cohort with daily 5–10 minute teachings, exercises, and conversation prompts for couples.",
+              "url": "https://apollos.com/christ-community-church-omaha/c/UniversalContentItem-cb047d97-31d0-46e0-888b-d36209e0b658",
+              "label": "Learn More"
+            },
+            {
+              "image": "/images/by-design/regeneration.jpg",
+              "title": "re:generation",
+              "text": "Stuck in the thing you don’t want to do, but keep on doing? A path toward the joy and freedom God promises.",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/3674471",
+              "label": "Learn More"
+            },
+            {
+              "image": "/images/by-design/citycare-counseling.jpg",
+              "title": "CityCare Counseling",
+              "text": "Professional counseling with compassion for your mind, heart, and soul.",
+              "url": "https://www.citycarecounseling.org",
+              "label": "Learn More"
+            },
+            {
+              "image": "/images/by-design/sexual-wholeness-conference.jpg",
+              "title": "The Sexual Wholeness Conference",
+              "text": "With Jay Stringer, October 3, 2026. How your story shaped your struggles, and how honesty, curiosity, and connection lead toward wholeness.",
+              "url": "https://cccomaha.churchcenter.com/registrations/events/3803259",
+              "label": "Learn More"
+            }
+          ]
+        },
+        {
+          "kind": "Text",
+          "collapsed_title": "",
+          "text": "<h3>Marriage CPR</h3><p>Hope for couples who have experienced betrayal due to infidelity. Limited availability. Contact Marc Montanye at <a href=\"mailto:MarcM@cccomaha.org\">MarcM@cccomaha.org</a>.</p><h3>Hope After Betrayal</h3><p>A community of women healing from the impact of sexual addiction and betrayal in their relationships. Registration is required before your first meeting. Contact Lori Bakker at 601.940.6624 or <a href=\"mailto:lori.lee.bakker@gmail.com\">lori.lee.bakker@gmail.com</a>.</p><h3>Men’s Sexual Integrity Groups (Men of Integrity)</h3><p>Address struggles with unwanted sexual behavior, understand recovery, and develop a path toward sobriety through honesty, connection, and accountability. Learn more at <a href=\"https://findintegrity.com\">FindIntegrity.com</a>, or contact Jon at 402.306.0847 or <a href=\"mailto:builderbakes@gmail.com\">builderbakes@gmail.com</a>.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "Conversations",
+      "eyebrow": "",
+      "anchor": "conversations",
+      "intro": "Honest conversations from the unCOMFORTABLE Podcast and Sunday Extras.",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Videos",
+          "items": [
+            {
+              "image": "/images/by-design/uncomfortable-311.jpg",
+              "title": "Healthy Sex in Marriage",
+              "text": "unCOMFORTABLE Podcast 311 with Eric and Rachel Dufour",
+              "url": "https://www.youtube.com/watch?v=-MKgoIhw1UM",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/conversation-on-married-sex.jpg",
+              "title": "A Conversation on Married Sex",
+              "text": "Sunday Extras with Eric and Rachel Dufour",
+              "url": "https://vimeo.com/1221500208",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/talking-to-kids-about-sex.jpg",
+              "title": "Talking to Your Kids About Sex",
+              "text": "Sunday Extras with Eric and Rachel Dufour",
+              "url": "https://vimeo.com/1221500244",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Books",
+      "eyebrow": "",
+      "anchor": "books",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Books",
+          "items": [
+            {
+              "image": "/images/by-design/book-seven-principles.jpg",
+              "title": "The Seven Principles for Making Marriage Work",
+              "text": "by John Gottman",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-marriage-you-want.jpg",
+              "title": "The Marriage You Want",
+              "text": "by Sheila Wray Gregoire and Keith Gregoire",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-highly-happy-marriages.jpg",
+              "title": "The Surprising Secrets of Highly Happy Marriages",
+              "text": "by Shaunti Feldhahn",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-intimate-allies.jpg",
+              "title": "Intimate Allies",
+              "text": "by Dan Allender and Tremper Longman III",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-good-guys-guide.jpg",
+              "title": "The Good Guy’s Guide to Great Sex",
+              "text": "by Sheila Wray Gregoire and Keith Gregoire",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-good-girls-guide.jpg",
+              "title": "The Good Girl’s Guide to Great Sex",
+              "text": "by Sheila Wray Gregoire",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-great-sex-rescue.jpg",
+              "title": "The Great Sex Rescue",
+              "text": "by Sheila Wray Gregoire, Rebecca Gregoire Lindenbach, and Joanna Sawatsky",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-desire.jpg",
+              "title": "Desire",
+              "text": "by Jay Stringer",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-gift-of-sex.jpg",
+              "title": "The Gift of Sex",
+              "text": "by Clifford and Joyce Penner",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-intimate-issues.jpg",
+              "title": "Intimate Issues",
+              "text": "by Linda Dillow and Lorraine Pintus",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-celebration-of-sex.jpg",
+              "title": "A Celebration of Sex",
+              "text": "by Douglas E. Rosenau",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-impossible-marriage.jpg",
+              "title": "An Impossible Marriage",
+              "text": "by Laurie Krieg and Matt Krieg",
+              "url": "",
+              "label": ""
+            },
+            {
+              "image": "/images/by-design/book-understanding-eve.jpg",
+              "title": "Understanding Eve",
+              "text": "",
+              "url": "https://ericandracheldufour.myshopify.com/products/understanding-eve-aka-hurray-for-the-va-jay-jay-paperback",
+              "label": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Websites",
+      "eyebrow": "",
+      "anchor": "websites",
+      "intro": "",
+      "style": "Cream",
+      "blocks": [
+        {
+          "kind": "Buttons",
+          "items": [
+            {
+              "label": "The Whole Story: Talking to Your Kids About Sex",
+              "url": "https://thewholestory.thinkific.com"
+            },
+            {
+              "label": "Bare Marriage Blog and Podcast",
+              "url": "https://baremarriage.com"
+            },
+            {
+              "label": "The Journey Course with Jay Stringer",
+              "url": "https://www.thejourneycourse.com/"
+            },
+            {
+              "label": "The Allender Center",
+              "url": "https://theallendercenter.org/marriage/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Counseling and Care",
+      "eyebrow": "",
+      "anchor": "counseling",
+      "intro": "",
+      "style": "Light",
+      "blocks": [
+        {
+          "kind": "Text",
+          "collapsed_title": "",
+          "text": "<p>CityCare Counseling counselors with experience in these areas. Call 402.916.9421 or visit <a href=\"https://www.citycarecounseling.org\">citycarecounseling.org</a>.</p>"
+        },
+        {
+          "kind": "Text",
+          "collapsed_title": "CityCare counselors",
+          "text": "<p><strong>Laurie Johnson, LIMHP, LPC, NCC, EMDR-certified:</strong> recovery from sexual trauma; developing healthy sexuality and recovering from purity culture.</p><p><strong>Kathryn Featherstone, MS, PLMHP:</strong> Gottman levels 1 and 2, plus Gottman training for couples facing PTSD and affairs or betrayal; sexuality, betrayal, church hurt, and purity culture.</p><p><strong>David Parrish, PLMHP:</strong> sex addiction, betrayal trauma, and spiritual abuse.</p><p><strong>Katie Kuhlmann, MA, LIMHP, CPC:</strong> purity culture, church hurt, betrayal trauma, body image, sexual abuse or addiction, and gender issues (not teens).</p><p><strong>Haley Dallmann, PLMHP:</strong> betrayal trauma, PTSD, birth trauma, infant loss, church hurt, and purity culture wounds.</p><p><strong>Jillian Booth, MA, LIMHP, NCC, IS-ART:</strong> trauma, betrayal trauma, church hurt, and purity culture wounds.</p><p><strong>Alexandra Espinoza, PLMHP:</strong> trauma, betrayal trauma, church hurt, and purity culture wounds.</p><p><strong>Andrew Jerusik, LIMHP, LPC:</strong> sex addiction and betrayal trauma.</p><p><strong>Zach Lardy, Community Counselor (intern):</strong> church hurt, spiritual abuse, purity culture, trauma, and betrayal trauma.</p><p><strong>Velyda Shaw, Community Counselor (intern):</strong> church trauma, intimate partner violence and marital abuse, birth trauma, and post-abortion healing.</p>"
+        },
+        {
+          "kind": "Text",
+          "collapsed_title": "Physical therapists for pelvic pain and pain with sex",
+          "text": "<p><strong>The Pelvic Physio:</strong> Rockbrook Village or Shops of Legacy, 402.628.7272</p><p><strong>CoreWorks Physical Therapy:</strong> 114th and Center, 402.512.3237</p><p><strong>Nebraska Medicine Olson Center for Women’s Health:</strong> Durham Outpatient Center, 402.559.4465</p><p><strong>CHI Pelvic Floor Rehabilitation:</strong> multiple locations, 402.717.7358</p><p><strong>Nebraska Core + Pelvic Therapy:</strong> 144th and Center in Omaha, or S. 27th St and Yankee Hill Road in Lincoln, 402.618.3320</p>"
+        }
+      ]
+    }
+  ]
+}
