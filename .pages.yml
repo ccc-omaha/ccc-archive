@@ -44,7 +44,7 @@ content:
       - name: intro
         label: Intro paragraph
         type: text
-        description: The paragraph under the big heading on the landing page. Also used as the description in Google results.
+        description: "The paragraph under the big heading on the landing page. Also used as the description in Google results. For italics, put one star (asterisk) on each side of the words. For bold, put two stars on each side."
       - name: search_placeholder
         label: Search box hint
         type: string
@@ -60,7 +60,7 @@ content:
       - name: footer_text
         label: Footer statement
         type: text
-        description: The sentence under the CCC logo in the navy footer.
+        description: "The sentence under the CCC logo in the navy footer. For italics, put one star (asterisk) on each side of the words. For bold, put two stars on each side."
       - name: service_times
         label: Service times
         type: string
@@ -135,7 +135,7 @@ content:
       - name: summary
         label: Summary
         type: text
-        description: One or two sentences. Shown under the series title on the landing page (first three lines) and in large type at the top of the series page.
+        description: "One or two sentences. Shown under the series title on the landing page (first three lines) and in large type at the top of the series page. For italics, put one star (asterisk) on each side of the words. For bold, put two stars on each side."
       - name: seo_description
         label: Google description
         type: text
@@ -176,7 +176,7 @@ content:
           - name: tagline
             label: Tagline
             type: text
-            description: Optional paragraph under the title art in the top area.
+            description: "Optional paragraph under the title art in the top area. For italics, put one star (asterisk) on each side of the words. For bold, put two stars on each side."
           - name: buttons
             label: Buttons
             type: object
@@ -206,7 +206,7 @@ content:
           - name: intro
             label: Section intro
             type: text
-            description: Optional short gray line under the section heading.
+            description: "Optional short gray line under the section heading. For italics, put one star (asterisk) on each side of the words. For bold, put two stars on each side."
           - name: style
             label: Section background
             type: select
